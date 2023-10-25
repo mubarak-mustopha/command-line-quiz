@@ -1,0 +1,2005 @@
+[
+        {
+                "question": ". Anorganizedwayof doingsomethinginphilosophyis called+++ inphilosophy",
+
+                "answer": "Methods"
+        },
+
+        {
+                "question": ". +++methodis theoldest method inphilosophy?",
+
+                "answer": "Socratic"
+        },
+
+        {
+                "question": ". +++methodapplies theart of debatebymeans of questions andanswers",
+
+                "answer": "Socratic"
+        },
+
+        {
+                "question": ". The+++ methodwas namedafter Socrates",
+
+                "answer": "Socratic"
+        },
+
+        {
+                "question": ". +++is theancient philosopher that likened himself to amidwife?",
+
+                "answer": "Socrates"
+        },
+
+        {
+                "question": ". Educationis from the Latinword+++",
+
+                "answer": "Educare"
+        },
+
+        {
+                "question": ". Aprominent philosopherwho criticizedtheSocraticmethodis",
+
+                "answer": "JohnLocke"
+        },
+
+        {
+                "question": ". +++introducedthedeductivemethodto philosophy",
+
+                "answer": "Aristotle"
+        },
+
+        {
+                "question": ". In +++ method, conclusions in any argument debate or statements are\ndeductively derived from general statements",
+
+                "answer": "Deductivemethod"
+        },
+
+        {
+                "question": "0.All FUTA boys are intelligent. Kehinde is a FUTA boy. Therefore , Kehinde is\nintelligent.This is anexample of +++ method",
+
+                "answer": "Deductive"
+        },
+
+        {
+                "question": "1.In deductive reasoning, the conclusions follows logically from the premises,\nirrespectiveof the truthorfalsityof the major premises.Trueorfalse?+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "3.Either Sola is in the class or he is in the hostel. Sola is not in the class. Therefore,\nSolais inthe hostel. The aboveexampleis that of +++ method",
+
+                "answer": "Deductive"
+        },
+
+        {
+                "question": "4.A method of argument in which the premises logically imply the conclusion,\norinwhichthe conclusionis logicallyderived from thepremises is +++method",
+
+                "answer": "Deductive"
+        },
+
+        {
+                "question": "5.Students of sciences are lazy. Students of Agric are lazy. Students of\nComputer are lazy. Therefore, all Students of FUTA are lazy. This is an\nexampleof +++ method",
+
+                "answer": "Inductive"
+        },
+
+        {
+                "question": "6.+++ method can leadits users tothefallacy of hasty generalisation",
+
+                "answer": "Inductive"
+        },
+
+        {
+                "question": "7.The conclusions of Deductive reasoning are only probable, not certain. True or\nfalse?+++",
+
+                "answer": "False"
+        },
+
+        {
+                "question": "8.Which philosopher is regardedas thefather of Existentialism?+++",
+
+                "answer": "Soren"
+        },
+
+        {
+                "question": "9.Thechampionof themethodthat holds the viewthat truthis subjectiveis +++",
+
+                "answer": "Soren"
+        },
+
+        {
+                "question": "0.The method in philosophy that advocates that individual dispositions have a\ndominant roleto play inthequest of knowledge ortruthis +++",
+
+                "answer": "Existentialist"
+        },
+
+        {
+                "question": "1.Which method advocates that personal conviction is the yardstick that makes\nones beliefs orfeelings to betrue",
+
+                "answer": "Existentialist"
+        },
+
+        {
+                "question": "3.+++are also referredtoas Vienna circle.",
+
+                "answer": "The"
+        },
+
+        {
+                "question": "4.+++championed Analytical method and spreadit to allareas of philosophy.",
+
+                "answer": "The"
+        },
+
+        {
+                "question": "5. +++ were of the view that for a statement to be meaningful, it must be either\npurelydefinitional orelsebeverifiable.",
+
+                "answer": "TheLogicalpositivists"
+        },
+
+        {
+                "question": "6.The method that hinges on analysis of key concepts in the languages used in\nphilosophizingor reflectionis +++",
+
+                "answer": "Analyticmethod"
+        },
+
+        {
+                "question": "7.The Logicalpositivists arealso referredto as +++",
+
+                "answer": "Viennacircle"
+        },
+
+        {
+                "question": "8.The method that was criticized on the ground that it denies philosophy the\nopportunity of offering new knowledge or serving as a guide to action is the\n+++",
+
+                "answer": "Analytic"
+        },
+
+        {
+                "question": "9.+++championedthe phenomenologicalmethod.",
+
+                "answer": "EdmundHusserl"
+        },
+
+        {
+                "question": "0.The methodthat involves theintellectual observationof agivenobject is +++",
+
+                "answer": "Phenomenological"
+        },
+
+        {
+                "question": "1.+++ seeks to give a purely neutral description of ones awareness of the world\nbeforeheever begins to think about it reflectively.",
+
+                "answer": "Phenomenological"
+        },
+
+        {
+                "question": "2.Which method attempts to be descriptive and objective about ones\nexperience of theworld+++",
+
+                "answer": "Phenomenological"
+        },
+
+        {
+                "question": "3.The intuitive thought in phenomenologicalmethod refers to the +++",
+
+                "answer": "Given"
+        },
+
+        {
+                "question": "4. The intuitive thought in phenomenological method requires a +++ fold\nreduction.",
+
+                "answer": "three"
+        },
+
+        {
+                "question": "5.+++is the oldest method inphilosophy",
+
+                "answer": "Socratic"
+        },
+
+        {
+                "question": "6.What is \u201cTabula raza\u201d +++",
+
+                "answer": "clean"
+        },
+
+        {
+                "question": "7.Themethodof philosophythat canbedescribedas amidwifeapproachis +++",
+
+                "answer": "Socraticmethod"
+        },
+
+        {
+                "question": "8.The oldest method in philosophy is associated with an ancient philosopher called\n+++",
+
+                "answer": "Socrates"
+        },
+
+        {
+                "question": "9.The method of philosophy that draws conclusion from on the basis of\ninsufficient evidences is +++",
+
+                "answer": "Inductivemethod"
+        },
+
+        {
+                "question": "0.Theconclusions of inductivereasoningareonlyprobable andnot +++",
+
+                "answer": "Certain"
+        },
+
+        {
+                "question": "1.A hedonist is a +++ if he looks into actions themselves to see the one that will\nproducemorepleasureover pain.",
+
+                "answer": "Deontologist"
+        },
+
+        {
+                "question": "2.A hedonist is a +++ if he looks forward only to the achievement of an action and\nnot thenatureof anactionitself",
+
+                "answer": "Teleologist"
+        },
+
+        {
+                "question": "4.A moral theory which claims that moral statement are not factual statement is\n+++",
+
+                "answer": "Emotivism"
+        },
+
+        {
+                "question": "5.According to the +++ , moral judgments cannot be evaluated as being true or\nfalse",
+
+                "answer": "Emotivist"
+        },
+
+        {
+                "question": "6.+++ holds that the morality of an action lies in its utility in serving as means to an\nend.",
+
+                "answer": "Utilitarianism"
+        },
+
+        {
+                "question": "7.Theproponent of situationethics is +++",
+
+                "answer": "JosephFletcher"
+        },
+
+        {
+                "question": "8. \u201cAmanis answerableonlytohimself\u201d.This belief is heldby+++",
+
+                "answer": "Existentialism"
+        },
+
+        {
+                "question": "9.Thetheorythat affirms theexistenceof Godis +++",
+
+                "answer": "Theism"
+        },
+
+        {
+                "question": "0.+++denies theexistenceof God.",
+
+                "answer": "Atheism"
+        },
+
+        {
+                "question": "1.Accordingto+++, man\u2019s existenceprecedes his essence",
+
+                "answer": "Existentialism"
+        },
+
+        {
+                "question": "2.+++ holds that man is endowed with an immortal soul, which is destined for an\neternallife.",
+
+                "answer": "Theism"
+        },
+
+        {
+                "question": "3.+++ is a theory that believes that morality is not about formalistic observance of\nlaw.",
+
+                "answer": "Situationethics"
+        },
+
+        {
+                "question": "5. \u201cThe senses are grossly misleading in supplying us with information\u201d this is an\nassertionthe+++",
+
+                "answer": "Rationalist"
+        },
+
+        {
+                "question": "6.Themetaphysicaltheorythat assert that onlythemindandits ideas exist is +++",
+
+                "answer": "Idealism"
+        },
+
+        {
+                "question": "7.Apart from the traditional branches of philosophy, there are also +++ that shows\ntrends inphilosophy",
+
+                "answer": "System"
+        },
+
+        {
+                "question": "8.These +++ comprise of outlooks on reality and phenomena such as man, life,\nreality, andtheuniverse.",
+
+                "answer": "System"
+        },
+
+        {
+                "question": "9.Theethicaltheorythat holds that pleasureis intrinsicallygoodis called+++",
+
+                "answer": "Hedonism"
+        },
+
+        {
+                "question": "0.Millwas concernedwith+++ pleasure.",
+
+                "answer": "Qualitative"
+        },
+
+        {
+                "question": "1.The adherents of the ethical theory that holds that pleasure is intrinsically good\nequates +++ withgood.",
+
+                "answer": "Pleasure"
+        },
+
+        {
+                "question": "2.To Democritus (460-370) +++ is thehighest good",
+
+                "answer": "delight"
+        },
+
+        {
+                "question": "3.Bentham andEpicurus holdthat +++ and+++ pleasures arebothgood.",
+
+                "answer": "Mentalandphysical"
+        },
+
+        {
+                "question": "4.AHedonist maybe a+++ or teleologist.",
+
+                "answer": "Deontologist"
+        },
+
+        {
+                "question": "6.To Aristopus, thesupremegoodis thepresent +++",
+
+                "answer": "pleasureof"
+        },
+
+        {
+                "question": "7.Thetheoryof altruism was introducedby+++",
+
+                "answer": "Auguste"
+        },
+
+        {
+                "question": "8.Altruism means theexercise of self andlifedevotedto the+++",
+
+                "answer": "goodof"
+        },
+
+        {
+                "question": "9.Altruism is aconscious oppositionto theory+++",
+
+                "answer": "egoism"
+        },
+
+        {
+                "question": "0.Alifemotivatedbyother-centeredness is called+++life",
+
+                "answer": "altruistic"
+        },
+
+        {
+                "question": "1.+++ is thebed-rock of morality.",
+
+                "answer": "Altruism"
+        },
+
+        {
+                "question": "2.What theoryis referredto byJosephButler as \u2018self-love\u2019?",
+
+                "answer": "Egoism"
+        },
+
+        {
+                "question": "3.Thefoundationof egoism is +++",
+
+                "answer": "Humanpsychology"
+        },
+
+        {
+                "question": "4.\u201cMannever acts if thereis no envisagedgood.\u201d This is theargument of +++",
+
+                "answer": "Egoists"
+        },
+
+        {
+                "question": "5.Altruism is from theFrenchword+++",
+
+                "answer": "Altrui"
+        },
+
+        {
+                "question": "6.Philosophy, as both an academic discipline and activity, covers all areas of\nhumanendeavor.But traditionallyit is dividedinto +++ major branches",
+
+                "answer": "Three"
+        },
+
+        {
+                "question": "7.Thebranchof philosophythat studies thenature of humanknowledgeis +++",
+
+                "answer": "Epistemology"
+        },
+
+        {
+                "question": "8.Thebranchof philosophythat searches for theultimatenature of realityis +++",
+
+                "answer": "Metaphysics"
+        },
+
+        {
+                "question": "9.Thebranchof philosophythat studies theought of humanconduct is +++",
+
+                "answer": "Ethics"
+        },
+
+        {
+                "question": "0.+++is treatedas atoolinPhilosophyratherthanabranch.",
+
+                "answer": "Logic"
+        },
+
+        {
+                "question": "1.Thetwo Greek words whereEpistemologyis derivedfrom is +++andlogos",
+
+                "answer": "Episteme"
+        },
+
+        {
+                "question": "2.One important question that Epistemology advance is whether knowledge is\nobjectiveor subjective or +++",
+
+                "answer": "certain"
+        },
+
+        {
+                "question": "3.Plato and Theodorous in an attempt to define knowledge claims that knowledge\nis +++",
+
+                "answer": "Trueopinion"
+        },
+
+        {
+                "question": "4.JTBmeans +++",
+
+                "answer": "Justifiedtruebelief"
+        },
+
+        {
+                "question": "5.ForX to claim toknowP, Pmust be+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "6.ForX to claim toknowP, X must +++ that Pis true",
+
+                "answer": "Believe"
+        },
+
+        {
+                "question": "7.ForX to claim toknowP, X must be+++ that Pis true",
+
+                "answer": "Justified"
+        },
+
+        {
+                "question": "8.+++is thetheoryof those whothink that certainknowledge is impossible.",
+
+                "answer": "Skepticism"
+        },
+
+        {
+                "question": "9.Relativist affirms that +++ of truthis entirelyrelative",
+
+                "answer": "Knowledge"
+        },
+
+        {
+                "question": "0.+++ of Rhodes is the editor who named the collections of Aristotle work as\nMetaphysics.",
+
+                "answer": "Adronicles"
+        },
+
+        {
+                "question": "1.Metaphysics studythe natureof +++",
+
+                "answer": "reality"
+        },
+
+        {
+                "question": "2.The questions of the existence of God and the problem of evil are all under which\nbranchof philosophy+++",
+
+                "answer": "metaphysics"
+        },
+
+        {
+                "question": "3.+++andidealism arethetwo major schools inMetaphysics.",
+
+                "answer": "Materialism"
+        },
+
+        {
+                "question": "4.The Logical positivist criticized Metaphysics and condemned it to flame because\nof the three criteria which anything that constitute knowledge to them must have\nbut whichMetaphysics lack.Thesethreecriteriaare+++anddemonstration",
+
+                "answer": "Verificationinvestigation"
+        },
+
+        {
+                "question": "5.Physics studies nature but Metaphysics studies thosethings that are +++ nature.",
+
+                "answer": "Beyond"
+        },
+
+        {
+                "question": "6.To theidealist what is realis what constitute+++ inthemind",
+
+                "answer": "Ideas"
+        },
+
+        {
+                "question": "7.Materialism is adoctrinethat tends to reduceallrealityto +++",
+
+                "answer": "matter"
+        },
+
+        {
+                "question": "8.Ethics is that branchof philosophyknownas +++",
+
+                "answer": "Moralphilosophy"
+        },
+
+        {
+                "question": "9.The+++ conceives ethics as thelogicalstudyof thelanguageof morals.",
+
+                "answer": "Analyticschool"
+        },
+
+        {
+                "question": "01. Statements such as \u201ccheating is wrong\u201d, \u201ctruth telling is right\u201d are\ninstances of +++",
+
+                "answer": "Moraljustification"
+        },
+
+        {
+                "question": "02. There is Metaphysics in Epistemology and there is Epistemology in\nMetaphysics.True or false?+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "03. Certainty, Objectivity, Absolute and Reliability are all epistemic claims.\nTrueor False?+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "04. Thedecisiontoterminateone\u2019s ownlifeis morallybad.Trueor False?+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "05. Apart from the core branches of philosophy, there are other branches.\nTrue or false?+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "06. Africanphilosophy canbe definedas a criticalreflection of the Africanand\nhis +++",
+
+                "answer": "Experienceof"
+        },
+
+        {
+                "question": "07. +++ defined African Philosophy as a path to a systematic coherent\ndiscoveryanddisclosureof the Africanas abeing-in-theAfricanworld",
+
+                "answer": "C"
+        },
+
+        {
+                "question": "08. As a creative rational inquiry, African philosophy seeks to understand,\nclarifyandexplaineveryaspect of the+++",
+
+                "answer": "Africanexperience"
+        },
+
+        {
+                "question": "09. Philosophyclarifies our+++ inanordinaryandsystematicmanner.",
+
+                "answer": "Thoughts"
+        },
+
+        {
+                "question": "11. +++ deals with the application of logic of the African world and culture to\nAfricansocialdiscourseandinteraction",
+
+                "answer": "Africanlogic"
+        },
+
+        {
+                "question": "12. +++ can be defined as the thinking on reality which is predominantly\nAfrican",
+
+                "answer": "Africanmetaphysics"
+        },
+
+        {
+                "question": "13. According to Momoh (1985). the spirit or vital force is primordial in the\nAfricanconceptionof +++",
+
+                "answer": "Reality"
+        },
+
+        {
+                "question": "14. +++deals withsuchproblems as Africanconcepts of goodandevil",
+
+                "answer": "Africanethics"
+        },
+
+        {
+                "question": "15. +++deals withsuchproblems as Africanconcepts of moralobligation",
+
+                "answer": "AfricanEthics"
+        },
+
+        {
+                "question": "16. +++deals withsuchproblems as Africanconcepts of rights andduties",
+
+                "answer": "Africanethics"
+        },
+
+        {
+                "question": "17. +++deals withtheAfricanconcept of idealforms of government",
+
+                "answer": "Africansocialandpoliticalphilosophy"
+        },
+
+        {
+                "question": "18. African philosophy of arts analyses the principle of ideal forms of African\n+++ andworks of arts",
+
+                "answer": "Beauty"
+        },
+
+        {
+                "question": "19. According to C. B. Okolo, African Aesthetics opens the door to self\nknowledgeandhence +++",
+
+                "answer": "Self"
+        },
+
+        {
+                "question": "21. African philosophy must also not neglect the +++ role of philosophy in the\nlife of menandsociety",
+
+                "answer": "Moralandethical"
+        },
+
+        {
+                "question": "22. African philosophy of +++ deals with issues such as ideal systems of\nindigenous laws, humanrights andcontracts",
+
+                "answer": "Law"
+        },
+
+        {
+                "question": "23. African philosophy of +++ deals with issues such as ideal systems of\nindigenous contracts, socialobligations andduties",
+
+                "answer": "Law"
+        },
+
+        {
+                "question": "24. Theportrayalof people\u2019s worldview, beliefs andvalues indicate their+++",
+
+                "answer": "Perceptionof"
+        },
+
+        {
+                "question": "25. The basic assumption in human beings is that philosophical thought\ncannot be ruledout whereverthere exist acommunityof +++ humanbeings",
+
+                "answer": "Rational"
+        },
+
+        {
+                "question": "26. Thesubject matterof Africanphilosophyis the Africanand+++",
+
+                "answer": "His"
+        },
+
+        {
+                "question": "27. Gbadegesin (1991) categorises the idea and nature of African philosophy\ninto +++",
+
+                "answer": "Four"
+        },
+
+        {
+                "question": "28. Placid Tempels and Kagame are examples of scholars who believe that\nAfrican philosophy can be sifted from worldviews, myths, proverbs etc. True or\nfalse?+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "29. Mbiti and Barry Hallen are examples of scholars who believe that African\nphilosophy can be sifted from worldviews, myths, proverbs etc. True or false?\n+++",
+
+                "answer": "False"
+        },
+
+        {
+                "question": "31. The view that African Philosophy as presented by the ethno-philosophers\nis amythwas byAfricanPhilosopher C.B.Okolo.True or false?+++",
+
+                "answer": "False"
+        },
+
+        {
+                "question": "32. The view that African Philosophy as presented by the ethno-philosophers\nis amythwas byAfricanPhilosopher PaulinHountondji.True or false?+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "33. The view that African Philosophy as presented by the ethno-philosophers\nis amythwas byJohnMbiti.True or false?+++",
+
+                "answer": "False"
+        },
+
+        {
+                "question": "34. The study of African philosophy frees us from unsubstantiated beliefs.\nTrueor false?+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "35. Entanglement in superstitious beliefs is another benefit of studying\nAfricanphilosophy.Trueor false?+++",
+
+                "answer": "False"
+        },
+
+        {
+                "question": "36. African philosophy counsels Africans to know themselves. True or false?\n+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "37. Philosophyis worldwide.Trueor false?+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "38. Technologicaleducationrequires philosophy.Trueorfalse?+++",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "39. \u201cPhilosophy is a rational search for answers to the questions about the\nultimate meaning of reality as a whole and of human life in particular\u201d This\ndefinitionof philosophyis givenby+++",
+
+                "answer": "Omoregbe"
+        },
+
+        {
+                "question": "40. \u201cPhilosophy is a rational search for answers to the questions that arise in\nthe mind when we reflect on human experience.\u201d This definition of philosophy is\nattributedto +++",
+
+                "answer": "Omoregbe"
+        },
+
+        {
+                "question": "41. \u201cPhilosophy is a rational search for answers to the questions about the\nultimate meaning of reality as a whole and of human life in particular. In other\nwords, Philosophy is a rational search for answers to the questions that arise in\nthe mind when we reflect on human experience.\u201d This definition is perfect\nbecauseit is exhaustive.True or false?+++",
+
+                "answer": "False"
+        },
+
+        {
+                "question": "42. Etymologically, philosophyis +++",
+
+                "answer": "Loveof"
+        },
+
+        {
+                "question": "43. According to Epicurus, philosophy is an activity that secure +++ through\nquestionandanswer",
+
+                "answer": "Happylife"
+        },
+
+        {
+                "question": "44. Every human being, regardless of his/her geographical location in the\nuniverse, is endowedwith+++ ability",
+
+                "answer": "Thinking"
+        },
+
+        {
+                "question": "45. Thosewho areinterestedinwisdom definephilosophyas +++",
+
+                "answer": "Loveof"
+        },
+
+        {
+                "question": "46. Those engaged in meditation and contemplation would define philosophy\nas a+++",
+
+                "answer": "Reflectiveactivity"
+        },
+
+        {
+                "question": "47. Fortheanalyticmind, philosophywouldbedefinedas theactivityof +++",
+
+                "answer": "Analysis"
+        },
+
+        {
+                "question": "48. Philosophy has a very wide range of definition because the thinking ability\nof manis +++",
+
+                "answer": "Limitless"
+        },
+
+        {
+                "question": "50. Philosophy enriches the rules of only a selected aspect of life. True or\nfalse?",
+
+                "answer": "False"
+        },
+
+        {
+                "question": "51. AccordingtoPlato, knowledgeis JTB.What is JTB? +++",
+
+                "answer": "JustifiedTrue"
+        },
+
+        {
+                "question": "52. Rationalinquirybegins with+++",
+
+                "answer": "Doubt"
+        },
+
+        {
+                "question": "53. Rationalinquiryends intheestablishment of +++",
+
+                "answer": "Belief"
+        },
+
+        {
+                "question": "54. Anapproachto philosophicalproblems is +++ thinking",
+
+                "answer": "critical"
+        },
+
+        {
+                "question": "55. Anapproachto philosophicalproblems is +++ analysis",
+
+                "answer": "Conceptual"
+        },
+
+        {
+                "question": "56. Anapproachto philosophicalproblems is +++ of ideas.",
+
+                "answer": "reconstruction"
+        },
+
+        {
+                "question": "57. Trueorfalse, philosophicalproblems focus on\u201cthereasonof things\u201d?",
+
+                "answer": "True"
+        },
+
+        {
+                "question": "58. Criticalreflections onthemeanings of concepts suchas knowledge,\nreality, mind, obligationandjustice is +++analysis",
+
+                "answer": "Conceptual"
+        },
+
+        {
+                "question": ". Oneof theseis not astatement",
+
+                "answer": "Please"
+        },
+
+        {
+                "question": ". Oneof theseis not astatement",
+
+                "answer": "Arepoliticians"
+        },
+
+        {
+                "question": ". Oneof theseis not astatement",
+
+                "answer": "Thecolour"
+        },
+
+        {
+                "question": ". Oneof theseis not astatement",
+
+                "answer": "Kayodeis"
+        },
+
+        {
+                "question": ". Oneof theseis not astatement",
+
+                "answer": "Iam"
+        },
+
+        {
+                "question": ". Oneof theseis theoddoneout",
+
+                "answer": "Exclamation"
+        },
+
+        {
+                "question": ". Oneof theseis theoddoneout",
+
+                "answer": "Statement"
+        },
+
+        {
+                "question": "0.Oneof thesecannot beaproposition",
+
+                "answer": "Question"
+        },
+
+        {
+                "question": "2.Premises are",
+
+                "answer": "Propositions"
+        },
+
+        {
+                "question": "3.Conclusions are",
+
+                "answer": "Propositions"
+        },
+
+        {
+                "question": "4.Deductivearguments areevaluatedon",
+
+                "answer": "Validity"
+        },
+
+        {
+                "question": "5.Aninductiveargument is evaluatedon",
+
+                "answer": "Validity"
+        },
+
+        {
+                "question": "7.Anargument is soundif it is",
+
+                "answer": "Valid"
+        },
+
+        {
+                "question": "8.Anargument is validif",
+
+                "answer": "It"
+        },
+
+        {
+                "question": "9.Anargument is invalidif",
+
+                "answer": "If"
+        },
+
+        {
+                "question": "0.Therearehowmanytypes of arguments",
+
+                "answer": "2"
+        },
+
+        {
+                "question": "1.Thevalidityof anargument is basedonits",
+
+                "answer": "Formalstructure"
+        },
+
+        {
+                "question": "2.Logicis a",
+
+                "answer": "Formalscience"
+        },
+
+        {
+                "question": "3.\u201cAll universities are headed by a vice chancellor. Since FUTA is a university, it is\nheadedbyavicechancellor.\u201d This argument is",
+
+                "answer": "Valid"
+        },
+
+        {
+                "question": "4.\u201cAkure is the capital city of Ondo state, then the state house must be located in\nAkure because allstatehouses arelocatedinstate capitals.\u201d This argument is",
+
+                "answer": "Invalid"
+        },
+
+        {
+                "question": "5.\u201cOnly 100 level students offer GNS 106. Since GNS 106 exams is today, all 100\nlevelstudents willsit for GNS106exams today.\u201d This argument is",
+
+                "answer": "Valid"
+        },
+
+        {
+                "question": "6.\u201cNot all FUTA students stay off campus. Sade is a FUTA student, therefore, Sade\nstays at Stateline.\u201d This argument is",
+
+                "answer": "Valid"
+        },
+
+        {
+                "question": "7.\u201cAll private universities in Nigeria are owned by churches. Bowen and Achievers\nareprivateuniversities inNigeria.BowenandAchievers are ownedbychurches\u201d",
+
+                "answer": "Valid"
+        },
+
+        {
+                "question": "8.\u201cWomen visit the hairdressing salon every week. Yemi will visit the hairdressing\nsalonthis week because she is awoman.\u201d This argument is",
+
+                "answer": "Invalid"
+        },
+
+        {
+                "question": "9.\u201cAll Nigerian universities are under NUC. JAMB has concluded admissions this\nyear. Therefore, all Nigerian universities have concluded admissions this year\u201d\nThis argument is",
+
+                "answer": "Invalid"
+        },
+
+        {
+                "question": "0.Adeductiveargument canreasonfrom",
+
+                "answer": "Generaltoparticular"
+        },
+
+        {
+                "question": "1.Nonsequiturliterarilymeans",
+
+                "answer": "It"
+        },
+
+        {
+                "question": "2.Nonsequiturmeans the connectionbetweenthepremises andconclusionare",
+
+                "answer": "Relevant"
+        },
+
+        {
+                "question": "3.Whichof thefollowingis anexampleof formalfallacy",
+
+                "answer": "Fallacyof"
+        },
+
+        {
+                "question": "4.Argumentum adBaculum is the Latinname for thefallacyof",
+
+                "answer": "Appealto"
+        },
+
+        {
+                "question": "5.Argumentum adBaculum is the Latinname for thefallacyof",
+
+                "answer": "Appealto"
+        },
+
+        {
+                "question": "6.Argumentum adIgnorantiam is theLatinnamefor thefallacyof",
+
+                "answer": "Appealto"
+        },
+
+        {
+                "question": "7.Argumentum adIgnorantiam is theLatinnamefor thefallacyof",
+
+                "answer": "Appealto"
+        },
+
+        {
+                "question": "8.Argumentum admisercordiam is theLatinnameforthefallacyof",
+
+                "answer": "Appealto"
+        },
+
+        {
+                "question": "9.Argumentum adverecundiam is theLatinnamefor thefallacyof",
+
+                "answer": "Appealto"
+        },
+
+        {
+                "question": "0.Argumentum adpopulum is theLatinnamefortheFallacyof",
+
+                "answer": "Appealto"
+        },
+
+        {
+                "question": "1.Argumentum adpopulum is theLatinnameforthefallacyof",
+
+                "answer": "Appealto"
+        },
+
+        {
+                "question": "2.Argumentum adpopulum is theLatinnameforthefallacyof",
+
+                "answer": "Appealto"
+        },
+
+        {
+                "question": "3.Argumentum adHominem is theLatinnameforthefallacyof",
+
+                "answer": "Appealto"
+        },
+
+        {
+                "question": "4.Argumentum adHominem canbe",
+
+                "answer": "Abusive"
+        },
+
+        {
+                "question": "5.Argumentum adHominem canbe",
+
+                "answer": "Provincial"
+        },
+
+        {
+                "question": "6.Argumentum adHominem canbe",
+
+                "answer": "Circumstantial"
+        },
+
+        {
+                "question": "7.Fallacies of relevanceis also as",
+
+                "answer": "Ignorancelenchi"
+        },
+
+        {
+                "question": "8.Oneof theseis theoddoneout",
+
+                "answer": "Fallacyof"
+        },
+
+        {
+                "question": "9.Oneof theseis theoddoneout",
+
+                "answer": "fallacyof"
+        },
+
+        {
+                "question": "0.Oneof theseis theoddoneout",
+
+                "answer": "Fallacyof"
+        },
+
+        {
+                "question": "1.Formalfallacies violatetherule of",
+
+                "answer": "Modus"
+        },
+
+        {
+                "question": "2.Fallacies of relevancearealso called",
+
+                "answer": "Ignoratio"
+        },
+
+        {
+                "question": "3.Thefollowingis anexampleof anargument that follows theruleof ---------------------\nAllmenaremortal\nSocrates is aman\nTherefore, Socrates is mortal",
+
+                "answer": "Modus"
+        },
+
+        {
+                "question": "4.This is trueabout formalfallacies:",
+
+                "answer": "Theyaffirm"
+        },
+
+        {
+                "question": "5.Another wordfor apropositionis:",
+
+                "answer": "Statement"
+        },
+
+        {
+                "question": "6.Logically, sentences are:",
+
+                "answer": "Merearrayof"
+        },
+
+        {
+                "question": "7.Another wordfor \u201cpremise\u201d is \u2026\u2026\u2026\u2026..",
+
+                "answer": "Reason"
+        },
+
+        {
+                "question": "8.Allbut oneof thesearerules of inference",
+
+                "answer": "Modus"
+        },
+
+        {
+                "question": "9.Allbut oneof thesearelogicalconnectives",
+
+                "answer": "Vel"
+        },
+
+        {
+                "question": "0.What is thelanguageusedtoexpress negation",
+
+                "answer": "It"
+        },
+
+        {
+                "question": "1.To determinethevalidityof theaboveargument, oneof the followingapplies:",
+
+                "answer": "Thepremises"
+        },
+
+        {
+                "question": "2.To determinetheinvalidityof the argument, oneof thefollowing applies:",
+
+                "answer": "Weaccept"
+        },
+
+        {
+                "question": "3.Oneof theseis theoddoneout",
+
+                "answer": "Fallacyof"
+        },
+
+        {
+                "question": "4.Letters ---------- arelogicalvariables",
+
+                "answer": "A"
+        },
+
+        {
+                "question": "5.Thelawof ----------- is alawof thought",
+
+                "answer": "Identity"
+        },
+
+        {
+                "question": "6.Thelawof ----------- is alawof thought",
+
+                "answer": "Contraposition"
+        },
+
+        {
+                "question": "7.Another nameforBiconditionalis:",
+
+                "answer": "If"
+        },
+
+        {
+                "question": "8.Conjunctionis trueonlywhen:",
+
+                "answer": "Boththeconjuncts"
+        },
+
+        {
+                "question": "9.Disjunctionis falseintheinclusivesensewhen:",
+
+                "answer": "Theconsequent"
+        },
+
+        {
+                "question": "0.Disjunctionis falseintheexclusivesensewhen:",
+
+                "answer": "Theconsequent"
+        },
+
+        {
+                "question": "1.Thestatement p\uf0baq is truewhen:",
+
+                "answer": "Theconsequent"
+        },
+
+        {
+                "question": "2.Anegation-----------that somethingis thecaseinastatement",
+
+                "answer": "Affirms"
+        },
+
+        {
+                "question": "3.--------------ruleholds that from aconditionalstatement andthenegationof its\nconsequent we canvalidlyaffirm thenegationof its antecedent.",
+
+                "answer": "Modus"
+        },
+
+        {
+                "question": "5.That apropositioncannot betrueandfalse at thesame timeobeys thelawof",
+
+                "answer": "Nature"
+        },
+
+        {
+                "question": "6.Apropositionthat is neithertruenor falseis against thelawof",
+
+                "answer": "Gravity"
+        },
+
+        {
+                "question": "7.If anythingAis not Acontradicts thelawof",
+
+                "answer": "Noncontradiction"
+        },
+
+        {
+                "question": "8.Thelaws of thought were identifiedby",
+
+                "answer": "JohnLocke"
+        },
+
+        {
+                "question": "0.Whentheconclusionis acombinationof simplestatements that haveformed\nthefirst andsecondpremises, thenit is a",
+
+                "answer": "Conjunction"
+        },
+
+        {
+                "question": "1.Thehorse is thesymbolof a_____",
+
+                "answer": "Conjunction"
+        },
+
+        {
+                "question": "2.Thevelis asymbolfor",
+
+                "answer": "Negation"
+        },
+
+        {
+                "question": "3.Thenegationsignis a_______",
+
+                "answer": "Tilde"
+        },
+
+        {
+                "question": "4.Allbirds havewings.Thesparrowis abird.Therefore, the sparrowhas wings.\nThis argument is",
+
+                "answer": "Valid"
+        },
+
+        {
+                "question": "5.Allbirds havewings.Thesparrowis abird.Therefore, the sparrowhas wings.\nThis argument is:",
+
+                "answer": "Sound"
+        },
+
+        {
+                "question": "5 questions\n1. Theinferenceof adeductiveargument is +++",
+
+                "answer": "Conclusive"
+        },
+
+        {
+                "question": ". Aninductiveargument is evaluatedbasedonthedegreeof +++",
+
+                "answer": "Probability"
+        },
+
+        {
+                "question": ". When the premises provide sufficient grounds for the conclusion, the argument\nis of whichtype?+++argument",
+
+                "answer": "Deductive"
+        },
+
+        {
+                "question": ". Themainstatement inanarguments is called+++",
+
+                "answer": "Conclusion"
+        },
+
+        {
+                "question": ". Inlogic, anargument is made upof agroup of +++",
+
+                "answer": "Propositions"
+        },
+
+        {
+                "question": ". When it is possible for all the premises to be true yet the conclusion derived from\nthem false, theargument is of whichtype?+++arguments",
+
+                "answer": "Inductive"
+        },
+
+        {
+                "question": ". The type of reasoning which the conclusion includes more information than\ncontainedinthe premises is +++ arguments",
+
+                "answer": "Inductive"
+        },
+
+        {
+                "question": ". \u201cThe pastor is either in the church or in the vicarage. Since he is in vicarage, he\ncannot beinthechurch\u201d This argument is of whichtype?+++ arguments",
+
+                "answer": "Deductive"
+        },
+
+        {
+                "question": "0.\u201cAll state governors are Nigerians. Only state governors belong to the Governors\u2019\nForum. Therefore, all members of the Governors\u2019 Forum are Nigerians\u201d This is a\ntypeof +++ argument",
+
+                "answer": "Deductive"
+        },
+
+        {
+                "question": "1.\u201cThe newspaper vendor brings the chairman\u2019s copy 8.00am every day. Since the\nsecretary opened late this morning, she must have missed the delivery of the\nchairman\u2019s newspaper.\u201d This argument is of whichtype?+++ arguments",
+
+                "answer": "Inductive"
+        },
+
+        {
+                "question": "2.\u201cAlthough she comes to school on other days, she feigns sickness every Friday\nwhen I teach their class and stays off school. I know Janet is avoiding me.\u201d This\nargument is of whichtype?+++ arguments",
+
+                "answer": "Inductive"
+        },
+
+        {
+                "question": "3.The type of argument that increases or decreases the confidence of the truth of\ntheconclusionbytheadditionof newpremises is +++ argument",
+
+                "answer": "Inductive"
+        },
+
+        {
+                "question": "4. Atoolof philosophythat canalso serve as abranchis +++",
+
+                "answer": "Logic"
+        },
+
+        {
+                "question": "5.Abranchof philosophythat cuts across allotherbranches of philosophyis +++",
+
+                "answer": "Logic"
+        },
+
+        {
+                "question": "6.Logicdeals withtheappraisalof +++",
+
+                "answer": "Arguments"
+        },
+
+        {
+                "question": "7.Logicis thestudyof thenorms of +++",
+
+                "answer": "Correct"
+        },
+
+        {
+                "question": "8.Argument seenas adisagreement is seeninits +++sense",
+
+                "answer": "Ordinary"
+        },
+
+        {
+                "question": "9.Arguments seenfrom the philosophicalperspectiveis seeninits +++sense",
+
+                "answer": "Technical"
+        },
+
+        {
+                "question": "0.Adeclarativesentencethat forms part of anargument is called+++",
+
+                "answer": "Proposition"
+        },
+
+        {
+                "question": "1.Fallacies are+++ inreasoning",
+
+                "answer": "Errors"
+        },
+
+        {
+                "question": "2.Afallacyis alogically+++ argument",
+
+                "answer": "Defective"
+        },
+
+        {
+                "question": "3.For a fallacious argument, the truth of the premises is +++ to establishing the\nconclusion",
+
+                "answer": "Irrelevant"
+        },
+
+        {
+                "question": "4.Thefallacyof affirmingtheconsequent neglects theruleof inference called+++",
+
+                "answer": "Modus"
+        },
+
+        {
+                "question": "5.The fallacy that occurs when an event is attributed to a cause, which is most\nprobablywrong is thefallacyof +++",
+
+                "answer": "Falsecause"
+        },
+
+        {
+                "question": "6.Thefallacycommittedwhenonejumps into conclusionis calledfallacyof +++",
+
+                "answer": "Hastygeneralisation"
+        },
+
+        {
+                "question": "7.Has your father finished spending the money he embezzled while in public\noffice?\u201d This is anexampleof afallacyof +++",
+
+                "answer": "Complex"
+        },
+
+        {
+                "question": "8.When an argument contains a premise in which a term is used distributively and\naconclusionusedit collectively, it commits thefallacyof +++",
+
+                "answer": "Composition"
+        },
+
+        {
+                "question": "9.When an argument contains a premise in which a term is used collectively and a\nconclusionis useddistributively, it commits the fallacyof +++",
+
+                "answer": "Division"
+        },
+
+        {
+                "question": "0.When a key term in an argument is used ambiguously, it commits the fallacy of\n+++",
+
+                "answer": "Equivocation"
+        },
+
+        {
+                "question": "1.All students must participate in the environmental sanitation. Any student found\nabsent will be ejected from the halls of residence. This is an example of a fallacy\nthat appeals to+++",
+
+                "answer": "Force"
+        },
+
+        {
+                "question": "2.Please support the upcoming population census; it will help the development of\nour nation. Civil servants are in the best position to mobilize other citizens for it.\nWhoever does not support the campaign will lose his/her job. This is an example\nof afallacythat appeals to+++",
+
+                "answer": "Force"
+        },
+
+        {
+                "question": "3.Since no one has been able to prove that any FUTA student has HIV/AIDS, FUTA\nis anHIV free university.This is anexample of afallacythat appeals to +++",
+
+                "answer": "Ignorance"
+        },
+
+        {
+                "question": "4.If you do not buy this product for me, my sick mother, wives and eleven kids will\nhavenothingto eat tonight.This is anexampleof afallacythat appeals to+++",
+
+                "answer": "Pity"
+        },
+
+        {
+                "question": "6.My grandmother is always right. Since she said Sola looks like an HIV patient, I\nbetternot marryher.This is anexampleof afallacythat appeals to +++",
+
+                "answer": "Authority"
+        },
+
+        {
+                "question": "7.I expect everybody to vacate these premises since the prophetess predicted that\nthe building will collapse in 24hours. This is an example of a fallacy that appeals\nto+++",
+
+                "answer": "Authority"
+        },
+
+        {
+                "question": "8.Your children must be strange kids. All children I know like to eat Indomine\nnoodles.This is anexample of afallacythat appeals to +++",
+
+                "answer": "Popularprejudice"
+        },
+
+        {
+                "question": "9.Someone with a similar experience would understand our needs better than all\nelse. That is why all university students and graduates should vote for a\nuniversity degree holder.This argument is an example of a fallacythat appeals to\n+++",
+
+                "answer": "Popularprejudice"
+        },
+
+        {
+                "question": "0.When the character of the person presenting the argument is attacked,\nargumentum adHominem is of whichtype?+++",
+
+                "answer": "Abusive"
+        },
+
+        {
+                "question": "1.When the person presenting the argument\u2019s situation is attacked, argumentum\nadHominem is of whichtype?+++",
+
+                "answer": "Circumstantial"
+        },
+
+        {
+                "question": "2.Fredrick\u2019s statement that Obasanjo should respect President Jonathan should be\nthrownout because, he diedof Malariayesterday.This is afallacyof +++",
+
+                "answer": "Attackingthe"
+        },
+
+        {
+                "question": "3.No student should obey the SUG President\u2019s directive because he has mouth\nodor.This is afallacyof +++",
+
+                "answer": "Attackingthe"
+        },
+
+        {
+                "question": "4.Your step mother that appeared to you in the dream last night accounted for the\nloss of your job this morning.This is afallacyof +++",
+
+                "answer": "Falsecause"
+        },
+
+        {
+                "question": "5.When you hit your left leg against a stone, you should have gone back home\nbecause that was enough signal to indicate that you will not meet the chairman\ninhis office.This is afallacyof +++",
+
+                "answer": "Falsecause"
+        },
+
+        {
+                "question": "6.Since your penultimate year result shows your CGPA is on first class, you have a\nready job waiting for you after graduation, because universities employ their first\nclass graduates.This is afallacyof +++",
+
+                "answer": "Hastygeneralisation"
+        },
+
+        {
+                "question": "7.No Governor has ever been privileged to win a second term bid in this state. Our\nnewgovernor shouldsimplyplanfor four years.This is afallacyof +++",
+
+                "answer": "Hastygeneralisation"
+        },
+
+        {
+                "question": "8. Tope\u2019s goal is to be the best student in this class. That means every time the\nschool team scores a goal, he becomes the best student in the class. This is a\nfallacyof +++",
+
+                "answer": "Equivocation"
+        },
+
+        {
+                "question": "9.FUTA is a neat campus. How then do you return from her teaching and research\nfarm withdirtyclothes?This is afallacyof +++",
+
+                "answer": "Division"
+        },
+
+        {
+                "question": "0.The literary and debating unit is formed by best students from each of the\nclasses.Therefore, theunit is thebest inthe school.This is afallacyof +++",
+
+                "answer": "Composition"
+        },
+
+        {
+                "question": "1.Howmanyarethe laws of thought",
+
+                "answer": "Three"
+        },
+
+        {
+                "question": "2.Thelaws of thought arepropoundedbyanancient philosophernamed+++",
+
+                "answer": "Aristotle"
+        },
+
+        {
+                "question": "4.Asyllogisticargument has +++ conclusion",
+
+                "answer": "one"
+        },
+
+        {
+                "question": "5.If Oluis aboythenhe attends amaleschool.This is anexampleof a+++\nstatement",
+
+                "answer": "Conditional"
+        },
+
+        {
+                "question": "6.He willsucceedinhis examinations if andonlyif hewillreadwell.This is an\nexampleof a+++ statement",
+
+                "answer": "Biconditional"
+        },
+
+        {
+                "question": "7.Thelawof excluded+++ abhors amiddlecourse byassertingthat aproposition\nis either trueorfalse.",
+
+                "answer": "middle"
+        },
+
+        {
+                "question": "8.This is anexample of thelawof +++ If Athenit is A.",
+
+                "answer": "identity"
+        },
+
+        {
+                "question": "9. Thelawof --------------declares that no propositioncanbetrueandfalseat the\nsametime.",
+
+                "answer": "contradiction"
+        },
+
+        {
+                "question": "0.Aset of letters p-z usedinlogicaldenotations arecalled+++",
+
+                "answer": "logicalvariables"
+        },
+
+        {
+                "question": "1.Another nameforformalfallacies is +++",
+
+                "answer": "nonsequitur"
+        },
+
+        {
+                "question": "002\nb. Fadahunsi1995 +++\nc. Ali1999\nd. Omoregbe1990\n2. \u201cSince long ago, then, mankind has tried to understand nature for reasons other\nthan making life easier than more convenient. There has also been the challenge\nof our own human nature. We stand somehow at the juncture of inner and outer\nworlds, creature of both body and spirit, subject to laws of nature yet making our\nown way. We are both part of the order of nature and separate from it, and the\ncosmos which we glimpse is also a cosmos which we impose after our own\nmanner of understanding\u201d Theabove quotationis talking about",
+
+                "answer": "Thewriterhimself"
+        },
+
+        {
+                "question": ". \u201cSince long ago, then, mankind has tried to understand nature for reasons other\nthan making life easier than more convenient. There has also been the challenge\nof our own human nature. We stand somehow at the juncture of inner and outer\nworlds, creature of both body and spirit, subject to laws of nature yet making our\nown way. We are both part of the order of nature and separate from it, and the\ncosmos which we glimpse is also a cosmos which we impose after our own\nmanner of understanding\u201d From theabovequotation, youcanaffirm that:",
+
+                "answer": "Manhas"
+        },
+
+        {
+                "question": ". What makes aleader asuccessfulleader among allotherfactors is",
+
+                "answer": "Geographicalenvironment"
+        },
+
+        {
+                "question": ". Ourtechnologicalneeds andconduciveenvironment require",
+
+                "answer": "Geographicalknowledge"
+        },
+
+        {
+                "question": ". Ourculturaltechnologydemands",
+
+                "answer": "Goodknowledgeof"
+        },
+
+        {
+                "question": ". What we do wemeanbypositivethinking?",
+
+                "answer": "Criticalreflection"
+        },
+
+        {
+                "question": ". Goodethicalorientationleads to",
+
+                "answer": "Goodknowledgeof"
+        },
+
+        {
+                "question": "0.Technologicaltransformationanddevelopment of anationis madepossible by",
+
+                "answer": "Discoveries"
+        },
+
+        {
+                "question": "1.Technologywithout goodmoralandright attitude is",
+
+                "answer": "Okaywithgoodleadership"
+        },
+
+        {
+                "question": "2.Anextensivetechnologicaladvancement inNigerianecessarilyrequires",
+
+                "answer": "Continuityof"
+        },
+
+        {
+                "question": "3.\u201cEconomics and technology have no meaning except from man for whom they\nshould serve. And man is only truly man as far as he is master of his own acts\nand judge of their worth, he is judge of his own advancement\u201d The author of this\nquotationis",
+
+                "answer": "Vdiodem"
+        },
+
+        {
+                "question": "000\nc. Pope PaulVI, 1967+++\nd. Nwoko, 1992\n14.\u201cEconomics and technology have no meaning except from man for whom they\nshould serve. And man is only truly man as far as he is master of his own acts\nand judge of their worth, he is judge of his own advancement\u201d This quotation\nrefers to:",
+
+                "answer": "Amanof"
+        },
+
+        {
+                "question": "5.Development and achievement, advancement in technology bereft of formation\nof right consciencewillleadto",
+
+                "answer": "Betterprogress"
+        },
+
+        {
+                "question": "6.Oneof theseis themost correct",
+
+                "answer": "Technologyandtraditionalphilosophyareforeignto"
+        },
+
+        {
+                "question": "7.Oneof theseis themost correct",
+
+                "answer": "Philosophyandtechnologyoriginatedfrom"
+        },
+
+        {
+                "question": "8.Oneof theseis themost correct",
+
+                "answer": "By"
+        },
+
+        {
+                "question": "9.Oneof theseis themost correct",
+
+                "answer": "Philosophy"
+        },
+
+        {
+                "question": "0.Part of our cultural endowment includes the techniques and skills man uses to\ntacklethechallenges of life, hence",
+
+                "answer": "Historical"
+        },
+
+        {
+                "question": "1.Philosophicaldesire andlovetoknowgoes beyondmere knowing, it involves",
+
+                "answer": "Abilityto"
+        },
+
+        {
+                "question": "2.Philosophybelongs to the rationalityof",
+
+                "answer": "Allanimals"
+        },
+
+        {
+                "question": "3.Oneof theseis themost correct",
+
+                "answer": "Somescholars"
+        },
+
+        {
+                "question": "4.Scientific discoveries are made through and by philosophical knowledge as long\nas scientificinventions are",
+
+                "answer": "Theoutcomeof"
+        },
+
+        {
+                "question": "5.What is philosophy?",
+
+                "answer": "Loveof"
+        },
+
+        {
+                "question": "7.Philosophicalknowledgeis meant for",
+
+                "answer": "Academicstudents"
+        },
+
+        {
+                "question": "8.Oneof theseis themost correct",
+
+                "answer": "Someprofessionals"
+        },
+
+        {
+                "question": "9.Themajor ways, manners andtechnologicalknowledgeis",
+
+                "answer": "Bymathematicalknowledge"
+        },
+
+        {
+                "question": "0.Oneof theseis themost correct",
+
+                "answer": "Onlystudents"
+        },
+
+        {
+                "question": "2.Oneof theseis true",
+
+                "answer": "Philosophy"
+        },
+
+        {
+                "question": "3.Thebest definitionof philosophyis givenby",
+
+                "answer": "Ananalyticmind"
+        },
+
+        {
+                "question": "4.Whichof theseis most appropriate",
+
+                "answer": "Philosophyhas"
+        },
+
+        {
+                "question": "5.Whichof theseis correct",
+
+                "answer": "As"
+        },
+
+        {
+                "question": "6.Themeans of nationaldevelopingtechnologyis",
+
+                "answer": "Bytechnologicalmethod"
+        },
+
+        {
+                "question": "7.Philosophyhas awideandlimitless range of definitions.Why?",
+
+                "answer": "It"
+        },
+
+        {
+                "question": "8.Technologybydefinitionmeans",
+
+                "answer": "Integrationof"
+        },
+
+        {
+                "question": "9.Wecanas welldefinetechnologyas",
+
+                "answer": "Self"
+        },
+
+        {
+                "question": "0.Thephilosophyof technologyis derivedfrom",
+
+                "answer": "Scientificknowledge"
+        },
+
+        {
+                "question": "1.Thebest wayanationcandeveloptechnologicallyis by",
+
+                "answer": "Borrowedtechnology"
+        },
+
+        {
+                "question": "2.Themeans andmethods anationcanspeedilymakeprogress is by",
+
+                "answer": "Appropriatetechnology"
+        },
+
+        {
+                "question": "3.What makes anationalleaderagoodleader?",
+
+                "answer": "Self"
+        },
+
+        {
+                "question": "4.Agoodleader needs what tomovethenationforwardwith",
+
+                "answer": "Politicalpolicies"
+        },
+
+        {
+                "question": "5.What is themost appropriate factor that makes aleader aheadwithout ahead?",
+
+                "answer": "Lack"
+        },
+
+        {
+                "question": "6.Allbut oneof thesearephilosophicalproblems",
+
+                "answer": "Theproblem"
+        },
+
+        {
+                "question": "7.Materialism is concernedwiththe:",
+
+                "answer": "Problem"
+        },
+
+        {
+                "question": "8.Theproblem of the existence of spirits is a",
+
+                "answer": "Problem"
+        },
+
+        {
+                "question": "9.JTBis aviewintheareaof theproblem of:",
+
+                "answer": "Reality"
+        },
+
+        {
+                "question": "0.Philosophicalproblems cannot betackledthrough",
+
+                "answer": "Accumulationof"
+        },
+
+        {
+                "question": "1.Philosophicalproblems arenot",
+
+                "answer": "Generalinnature"
+        },
+
+        {
+                "question": "2.Philosophicalproblems areconcernedwithsearching foranswers to ultimate\nquestions of",
+
+                "answer": "Reality"
+        },
+
+        {
+                "question": "3.Allbut oneof theseareapproaches to philosophicalproblems:",
+
+                "answer": "Criticalthinking"
+        }
+]
