@@ -13,3 +13,6 @@ with pdfplumber.open("gns106+++.pdf") as gns_pdf:
 
 print(f"There're {len(QUESTION_LIST)} questions available.")
 print(QUESTION_LIST[:10])        
+
+with open("gns-pq.json", "w") as gns_json:
+    json.dump(QUESTION_LIST,gns_json, indent=8, separators=(',\n',': '))
