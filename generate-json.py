@@ -2,6 +2,13 @@ import json
 import re
 import pdfplumber
 
+def get_match_string(fullstring,match):
+    """
+    Args: match --> match object,fullstring
+    return_value --> match string from fullstring 
+    """
+    return fullstring[match.start(): match.end()]
+
 PATTERN = re.compile("(\d+[.].*?)\n([a-d][.][a-zA-Z+!? ]+\n?)",re.DOTALL)
 QUESTION_LIST = []#a list of {"question":abc,"answer":def}
 
