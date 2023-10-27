@@ -40,24 +40,14 @@ QUESTION_LIST = []#a list of {"question":abc,"answer":def}
 
 with pdfplumber.open("gns106+++.pdf") as gns_pdf:
     pages = gns_pdf.pages[30:]#list of pdf pages starting from 30 coz german question starts here.
-    # for page in german_pqs:            
-    #     match = PATTERN.findall(page.extract_text())
-    #     QUESTION_LIST.extend([{"question":m[0],"answer":m[1]} for m in match])
-    page_32 = pages[1].extract_text()
-    matches_32 = [get_match_string(page_32,match_obj) for match_obj in PATTERN.finditer(page_32)]
-    print(page_32)
-    print([get_q_and_a_dict(match) for match in matches_32])
-    print("*"*150)
-    page_47 = pages[16].extract_text()
-    matches_47 = [get_match_string(page_47,match_obj) for match_obj in PATTERN.finditer(page_47)]
-    print(page_47)
-    print("*"*150)
-    print([get_q_and_a_dict(match) for match in matches_47])
+    for page in pages:
+        page_text = page.extract_text()
+        question_match_list = [get_match_string(page_text,match) for match in PATTERN.finditer(page_text)]
+        q_and_a_dict = [get_q_and_a_dict(match) for match in question_match_list]
+        QUESTION_LIST.extend(q_and_a_dict)
 
-    
+print(f"There're {len(QUESTION_LIST)} questions available.")
+print(QUESTION_LIST[:10])        
 
-# print(f"There're {len(QUESTION_LIST)} questions available.")
-# print(QUESTION_LIST[:10])        
-
-# with open("gns-pq.json", "w") as gns_json:
-#     json.dump(QUESTION_LIST,gns_json, indent=8, separators=(',\n',': '))
+with open("gns-pq.json", "w") as gns_json:
+    json.dump(QUESTION_LIST,gns_json, indent=8, separators=(',\n',': '))
