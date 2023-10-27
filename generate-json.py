@@ -9,6 +9,11 @@ def get_match_string(fullstring,match):
     """
     return fullstring[match.start(): match.end()]
 
+def split_text(pattern, text):
+    """
+    Wrapper function for re.split
+    """
+    return re.split(pattern,text)
     
 
 PATTERN = re.compile("(\d+[.].*?)\n([a-d][.][a-zA-Z+!?. ]+\n?){1,4}",re.DOTALL)
