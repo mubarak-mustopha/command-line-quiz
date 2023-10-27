@@ -11,7 +11,7 @@ def get_match_string(fullstring,match):
 
     
 
-PATTERN = re.compile("(\d+[.].*?)\n([a-d][.][a-zA-Z+!? ]+\n?)",re.DOTALL)
+PATTERN = re.compile("(\d+[.].*?)\n([a-d][.][a-zA-Z+!?. ]+\n?){1,4}",re.DOTALL)
 QUESTION_LIST = []#a list of {"question":abc,"answer":def}
 
 with pdfplumber.open("gns106+++.pdf") as gns_pdf:
