@@ -2,7 +2,7 @@ import json
 import re
 import pdfplumber
 
-PATTERN = re.compile("\d(.*?)\na[.]\s+(\w+)",re.DOTALL)#1. What is a boy\na. A boy is a boy
+PATTERN = re.compile("(\d+[.].*?)\n([a-d][.][a-zA-Z+!? ]+\n?)",re.DOTALL)
 QUESTION_LIST = []#a list of {"question":abc,"answer":def}
 
 with pdfplumber.open("gns106+++.pdf") as gns_pdf:
