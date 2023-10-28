@@ -24,7 +24,7 @@ def get_q_and_a_dict(match_string):
     options = options.strip("\n").split("\n")#gotta strip newline before splitting on it, else we get empty string in list
     if len(options) == 1:
         answer = options[0]
-        return {"question":question,"options": " ","answer": answer}#german question
+        return {"question":question,"options": " ","answer": re.sub("^a[.] ","", answer)}#regex return "Muby" from "a. Muby"
     if len(options) != 4:
         return None
     
