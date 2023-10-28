@@ -21,6 +21,7 @@ def get_q_and_a_dict(match_string):
     returns {question, option, answer}
     """
     question, options = split_text("\n(?=a[.])", match_string)# split on the newline followed by a. which is the first option
+    question = re.sub("^\d+[. ]{1,2}","",question)#strip out question number
     options = options.strip("\n").split("\n")#gotta strip newline before splitting on it, else we get empty string in list
     if len(options) == 1:
         answer = options[0]
