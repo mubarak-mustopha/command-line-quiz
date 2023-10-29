@@ -77,14 +77,16 @@ class Questionniare:
     def _is_multiple_choice(self,question):
         return isinstance(question['options'], list)
 
-    def _is_correct(self, question, option, is_multiple_choice):
+    def _is_correct(self, question, option, is_multiple_choice=False):
         if is_multiple_choice:
             return question['answer'][0] == option
         return remove_space(question['answer'].lower()) == remove_space(option.lower())#Analytic method --> analyticmethod        
 
     def start(self):
-        for question in self._questions:
+        print("Result to each question shows immediately after you answer it.")
+        for q_num,question in enumerate(self._questions):
             is_multiple_choice = self._is_multiple_choice(question)
+            print(f"Question number {q_num}")
             print(question["question"])
             if is_multiple_choice:
                 options = '\n'.join(question['options'])
@@ -96,10 +98,13 @@ class Questionniare:
             else:
                 print(f"You missed.\nCorrect answer is {question['answer']}")    
                 self._missed_questions.append(question)
+            print("*"*50)#indicate new question    
         self._print_score()        
 
     def _print_score(self):
         print(f"You got {self._score} questions right out of {len(self._questions)}")
+     
         
 gns_questionniare = Questionniare(QUESTIONS)
 gns_questionniare.start()
+
