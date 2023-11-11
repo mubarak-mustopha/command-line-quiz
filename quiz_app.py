@@ -1,66 +1,14 @@
 import re
-
-QUESTIONS = [
-            {
-                "question": "Oneof theseis not astatement",
-
-                "options": [
-                        "a. Kayodeis tall",
-
-                        "b. Femiis short",
-
-                        "c. Ifeis not too short",
-
-                        "d. Get methetallstudent "
-                ],
-
-                "answer": "d. Get methetallstudent +++"
-        },
-
-        {
-                "question": "Oneof theseis not astatement",
-
-                "options": [
-                        "a. Iam finished!",
-
-                        "b. What happened?",
-
-                        "c. Relax.",
-
-                        "d. Allof theabove "
-                ],
-
-                "answer": "d. Allof theabove +++"
-        },
-
-        {
-                "question": "Anorganizedwayof doingsomethinginphilosophyis called+++ inphilosophy",
-
-                "options": " ",
-
-                "answer": "Methods"
-        },
-
-        {
-                "question": "+++methodis theoldest method inphilosophy?",
-
-                "options": " ",
-
-                "answer": "Socratic"
-        },
-
-        {
-                "question": "+++methodapplies theart of debatebymeans of questions andanswers",
-
-                "options": " ",
-
-                "answer": "Socratic"
-        },
-]
+import json
+import random
 
 def remove_space(string):
     return re.sub(" ","",string)
 
+def get_questions(num_question = 40):
+    QUESTIONS = json.load(open("gns-pq.json"))
+    random.shuffle(QUESTIONS)
+    return QUESTIONS[:num_question]
 
 class Questionniare:
     def __init__(self, questions) -> None:
@@ -105,6 +53,7 @@ class Questionniare:
         print(f"You got {self._score} questions right out of {len(self._questions)}")
      
         
-gns_questionniare = Questionniare(QUESTIONS)
-gns_questionniare.start()
+# gns_questionniare = Questionniare()
+# gns_questionniare.start()
 
+print(get_questions(10))
