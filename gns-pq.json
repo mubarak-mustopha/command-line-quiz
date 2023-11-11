@@ -1,6 +1,6 @@
 [
         {
-                "question": "Anorganizedwayof doingsomethinginphilosophyis called+++ inphilosophy",
+                "question": "An organized way of doing something in philosophy is called +++ in philosophy",
 
                 "options": " ",
 
@@ -8,7 +8,7 @@
         },
 
         {
-                "question": "+++methodis theoldest method inphilosophy?",
+                "question": "+++ method is the oldest method in philosophy?",
 
                 "options": " ",
 
@@ -16,7 +16,7 @@
         },
 
         {
-                "question": "+++methodapplies theart of debatebymeans of questions andanswers",
+                "question": "+++ method applies the art of debate by means of questions and answers",
 
                 "options": " ",
 
@@ -24,7 +24,7 @@
         },
 
         {
-                "question": "The+++ methodwas namedafter Socrates",
+                "question": "The +++ method was named after Socrates",
 
                 "options": " ",
 
@@ -32,7 +32,7 @@
         },
 
         {
-                "question": "+++is theancient philosopher that likened himself to amidwife?",
+                "question": "+++ is the ancient philosopher that likened himself to a midwife?",
 
                 "options": " ",
 
@@ -40,7 +40,7 @@
         },
 
         {
-                "question": "Educationis from the Latinword+++",
+                "question": "Education is from the Latin word +++",
 
                 "options": " ",
 
@@ -48,15 +48,15 @@
         },
 
         {
-                "question": "Aprominent philosopherwho criticizedtheSocraticmethodis",
+                "question": "A prominent philosopher who criticized the Socratic method is",
 
                 "options": " ",
 
-                "answer": "JohnLocke"
+                "answer": "John Locke"
         },
 
         {
-                "question": "+++introducedthedeductivemethodto philosophy",
+                "question": "+++ introduced the deductive method to philosophy",
 
                 "options": " ",
 
@@ -68,11 +68,11 @@
 
                 "options": " ",
 
-                "answer": "Deductivemethod"
+                "answer": "Deductive method"
         },
 
         {
-                "question": "All FUTA boys are intelligent. Kehinde is a FUTA boy. Therefore , Kehinde is\nintelligent.This is anexample of +++ method",
+                "question": "All FUTA boys are intelligent. Kehinde is a FUTA boy. Therefore , Kehinde is\nintelligent. This is an example of +++ method",
 
                 "options": " ",
 
@@ -80,23 +80,15 @@
         },
 
         {
-                "question": "In deductive reasoning, the conclusions follows logically from the premises,\nirrespectiveof the truthorfalsityof the major premises.Trueorfalse?+++",
+                "question": "In deductive reasoning, the conclusions follows logically from the premises,\nirrespective of the truth or falsity of the major premises. True or false? +++",
 
                 "options": " ",
 
-                "answer": "True+++"
+                "answer": "True +++"
         },
 
         {
-                "question": "Either Sola is in the class or he is in the hostel. Sola is not in the class. Therefore,\nSolais inthe hostel. The aboveexampleis that of +++ method",
-
-                "options": " ",
-
-                "answer": "Deductive"
-        },
-
-        {
-                "question": "A method of argument in which the premises logically imply the conclusion,\norinwhichthe conclusionis logicallyderived from thepremises is +++method",
+                "question": "Either Sola is in the class or he is in the hostel. Sola is not in the class. Therefore,\nSola is in the hostel. The above example is that of +++ method",
 
                 "options": " ",
 
@@ -104,7 +96,15 @@
         },
 
         {
-                "question": "Students of sciences are lazy. Students of Agric are lazy. Students of\nComputer are lazy. Therefore, all Students of FUTA are lazy. This is an\nexampleof +++ method",
+                "question": "A method of argument in which the premises logically imply the conclusion,\nor in which the conclusion is logically derived from the premises is +++ method",
+
+                "options": " ",
+
+                "answer": "Deductive"
+        },
+
+        {
+                "question": "Students of sciences are lazy. Students of Agric are lazy. Students of\nComputer are lazy. Therefore, all Students of FUTA are lazy. This is an\nexample of +++ method",
 
                 "options": " ",
 
@@ -112,7 +112,7 @@
         },
 
         {
-                "question": "+++ method can leadits users tothefallacy of hasty generalisation",
+                "question": "+++ method can lead its users to the fallacy of hasty generalisation",
 
                 "options": " ",
 
@@ -120,7 +120,7 @@
         },
 
         {
-                "question": "The conclusions of Deductive reasoning are only probable, not certain. True or\nfalse?+++",
+                "question": "The conclusions of Deductive reasoning are only probable, not certain. True or\nfalse? +++",
 
                 "options": " ",
 
@@ -128,7 +128,7 @@
         },
 
         {
-                "question": "Which philosopher is regardedas thefather of Existentialism?+++",
+                "question": "Which philosopher is regarded as the father of Existentialism? +++",
 
                 "options": " ",
 
@@ -136,7 +136,7 @@
         },
 
         {
-                "question": "Thechampionof themethodthat holds the viewthat truthis subjectiveis +++",
+                "question": "The champion of the method that holds the view that truth is subjective is +++",
 
                 "options": " ",
 
@@ -144,7 +144,7 @@
         },
 
         {
-                "question": "The method in philosophy that advocates that individual dispositions have a\ndominant roleto play inthequest of knowledge ortruthis +++",
+                "question": "The method in philosophy that advocates that individual dispositions have a\ndominant role to play in the quest of knowledge or truth is +++",
 
                 "options": " ",
 
@@ -152,7 +152,7 @@
         },
 
         {
-                "question": "Which method advocates that personal conviction is the yardstick that makes\nones beliefs orfeelings to betrue",
+                "question": "Which method advocates that personal conviction is the yardstick that makes\nones beliefs or feelings to be true",
 
                 "options": " ",
 
@@ -160,43 +160,43 @@
         },
 
         {
-                "question": "+++are also referredtoas Vienna circle.",
+                "question": "+++ are also referred to as Vienna circle.",
 
                 "options": " ",
 
-                "answer": "The Logicalpositivists"
+                "answer": "The Logical positivists"
         },
 
         {
-                "question": "+++championed Analytical method and spreadit to allareas of philosophy.",
+                "question": "+++ championed Analytical method and spread it to all areas of philosophy.",
 
                 "options": " ",
 
-                "answer": "The Logicalpositivists"
+                "answer": "The Logical positivists"
         },
 
         {
-                "question": "+++ were of the view that for a statement to be meaningful, it must be either\npurelydefinitional orelsebeverifiable.",
+                "question": "+++ were of the view that for a statement to be meaningful, it must be either\npurely definitional or else be verifiable.",
 
                 "options": " ",
 
-                "answer": "TheLogicalpositivists"
+                "answer": "The Logical positivists"
         },
 
         {
-                "question": "The method that hinges on analysis of key concepts in the languages used in\nphilosophizingor reflectionis +++",
+                "question": "The method that hinges on analysis of key concepts in the languages used in\nphilosophizing or reflection is +++",
 
                 "options": " ",
 
-                "answer": "Analyticmethod"
+                "answer": "Analytic method"
         },
 
         {
-                "question": "The Logicalpositivists arealso referredto as +++",
+                "question": "The Logical positivists are also referred to as +++",
 
                 "options": " ",
 
-                "answer": "Viennacircle"
+                "answer": "Vienna circle"
         },
 
         {
@@ -208,23 +208,15 @@
         },
 
         {
-                "question": "+++championedthe phenomenologicalmethod.",
+                "question": "+++ championed the phenomenological method.",
 
                 "options": " ",
 
-                "answer": "EdmundHusserl"
+                "answer": "Edmund Husserl"
         },
 
         {
-                "question": "The methodthat involves theintellectual observationof agivenobject is +++",
-
-                "options": " ",
-
-                "answer": "Phenomenological method"
-        },
-
-        {
-                "question": "+++ seeks to give a purely neutral description of ones awareness of the world\nbeforeheever begins to think about it reflectively.",
+                "question": "The method that involves the intellectual observation of a given object is +++",
 
                 "options": " ",
 
@@ -232,7 +224,7 @@
         },
 
         {
-                "question": "Which method attempts to be descriptive and objective about ones\nexperience of theworld+++",
+                "question": "+++ seeks to give a purely neutral description of ones awareness of the world\nbefore he ever begins to think about it reflectively.",
 
                 "options": " ",
 
@@ -240,7 +232,15 @@
         },
 
         {
-                "question": "The intuitive thought in phenomenologicalmethod refers to the +++",
+                "question": "Which method attempts to be descriptive and objective about ones\nexperience of the world +++",
+
+                "options": " ",
+
+                "answer": "Phenomenological method"
+        },
+
+        {
+                "question": "The intuitive thought in phenomenological method refers to the +++",
 
                 "options": " ",
 
@@ -256,7 +256,7 @@
         },
 
         {
-                "question": "+++is the oldest method inphilosophy",
+                "question": "+++ is the oldest method in philosophy",
 
                 "options": " ",
 
@@ -264,7 +264,7 @@
         },
 
         {
-                "question": "What is \u201cTabula raza\u201d +++",
+                "question": "What is \u201c Tabula raza\u201d +++",
 
                 "options": " ",
 
@@ -272,11 +272,11 @@
         },
 
         {
-                "question": "Themethodof philosophythat canbedescribedas amidwifeapproachis +++",
+                "question": "The method of philosophy that can be described as a midwife approach is +++",
 
                 "options": " ",
 
-                "answer": "Socraticmethod"
+                "answer": "Socratic method"
         },
 
         {
@@ -292,11 +292,11 @@
 
                 "options": " ",
 
-                "answer": "Inductivemethod"
+                "answer": "Inductive method"
         },
 
         {
-                "question": "Theconclusions of inductivereasoningareonlyprobable andnot +++",
+                "question": "The conclusions of inductive reasoning are only probable and not +++",
 
                 "options": " ",
 
@@ -304,7 +304,7 @@
         },
 
         {
-                "question": "A hedonist is a +++ if he looks into actions themselves to see the one that will\nproducemorepleasureover pain.",
+                "question": "A hedonist is a +++ if he looks into actions themselves to see the one that will\nproduce more pleasure over pain.",
 
                 "options": " ",
 
@@ -312,7 +312,7 @@
         },
 
         {
-                "question": "A hedonist is a +++ if he looks forward only to the achievement of an action and\nnot thenatureof anactionitself",
+                "question": "A hedonist is a +++ if he looks forward only to the achievement of an action and\nnot the nature of an action itself",
 
                 "options": " ",
 
@@ -344,15 +344,15 @@
         },
 
         {
-                "question": "Theproponent of situationethics is +++",
+                "question": "The proponent of situation ethics is +++",
 
                 "options": " ",
 
-                "answer": "JosephFletcher"
+                "answer": "Joseph Fletcher"
         },
 
         {
-                "question": "\u201cAmanis answerableonlytohimself\u201d.This belief is heldby+++",
+                "question": "\u201cA man is answerable only to himself\u201d. This belief is held by +++",
 
                 "options": " ",
 
@@ -360,7 +360,7 @@
         },
 
         {
-                "question": "Thetheorythat affirms theexistenceof Godis +++",
+                "question": "The theory that affirms the existence of God is +++",
 
                 "options": " ",
 
@@ -368,7 +368,7 @@
         },
 
         {
-                "question": "+++denies theexistenceof God.",
+                "question": "+++ denies the existence of God.",
 
                 "options": " ",
 
@@ -376,7 +376,7 @@
         },
 
         {
-                "question": "Accordingto+++, man\u2019s existenceprecedes his essence",
+                "question": "According to +++, man\u2019s existence precedes his essence",
 
                 "options": " ",
 
@@ -384,7 +384,7 @@
         },
 
         {
-                "question": "+++ holds that man is endowed with an immortal soul, which is destined for an\neternallife.",
+                "question": "+++ holds that man is endowed with an immortal soul, which is destined for an\neternal life.",
 
                 "options": " ",
 
@@ -396,11 +396,11 @@
 
                 "options": " ",
 
-                "answer": "Situationethics"
+                "answer": "Situation ethics"
         },
 
         {
-                "question": "\u201cThe senses are grossly misleading in supplying us with information\u201d this is an\nassertionthe+++",
+                "question": "\u201cThe senses are grossly misleading in supplying us with information\u201d this is an\nassertion the +++",
 
                 "options": " ",
 
@@ -408,7 +408,7 @@
         },
 
         {
-                "question": "Themetaphysicaltheorythat assert that onlythemindandits ideas exist is +++",
+                "question": "The metaphysical theory that assert that only the mind and its ideas exist is +++",
 
                 "options": " ",
 
@@ -416,7 +416,7 @@
         },
 
         {
-                "question": "Apart from the traditional branches of philosophy, there are also +++ that shows\ntrends inphilosophy",
+                "question": "Apart from the traditional branches of philosophy, there are also +++ that shows\ntrends in philosophy",
 
                 "options": " ",
 
@@ -424,7 +424,7 @@
         },
 
         {
-                "question": "These +++ comprise of outlooks on reality and phenomena such as man, life,\nreality, andtheuniverse.",
+                "question": "These +++ comprise of outlooks on reality and phenomena such as man, life,\nreality, and the universe.",
 
                 "options": " ",
 
@@ -432,7 +432,7 @@
         },
 
         {
-                "question": "Theethicaltheorythat holds that pleasureis intrinsicallygoodis called+++",
+                "question": "The ethical theory that holds that pleasure is intrinsically good is called +++",
 
                 "options": " ",
 
@@ -440,7 +440,7 @@
         },
 
         {
-                "question": "Millwas concernedwith+++ pleasure.",
+                "question": "Mill was concerned with +++ pleasure.",
 
                 "options": " ",
 
@@ -448,7 +448,7 @@
         },
 
         {
-                "question": "The adherents of the ethical theory that holds that pleasure is intrinsically good\nequates +++ withgood.",
+                "question": "The adherents of the ethical theory that holds that pleasure is intrinsically good\nequates +++ with good.",
 
                 "options": " ",
 
@@ -456,7 +456,7 @@
         },
 
         {
-                "question": "To Democritus (460-370) +++ is thehighest good",
+                "question": "To Democritus (460-370) +++ is the highest good",
 
                 "options": " ",
 
@@ -464,15 +464,15 @@
         },
 
         {
-                "question": "Bentham andEpicurus holdthat +++ and+++ pleasures arebothgood.",
+                "question": "Bentham and Epicurus hold that +++ and +++ pleasures are both good.",
 
                 "options": " ",
 
-                "answer": "Mentalandphysical"
+                "answer": "Mental and physical"
         },
 
         {
-                "question": "AHedonist maybe a+++ or teleologist.",
+                "question": "A Hedonist may be a +++ or teleologist.",
 
                 "options": " ",
 
@@ -480,15 +480,15 @@
         },
 
         {
-                "question": "To Aristopus, thesupremegoodis thepresent +++",
+                "question": "To Aristopus, the supreme good is the present +++",
 
                 "options": " ",
 
-                "answer": "pleasureof the body"
+                "answer": "pleasure of the body"
         },
 
         {
-                "question": "Thetheoryof altruism was introducedby+++",
+                "question": "The theory of altruism was introduced by +++",
 
                 "options": " ",
 
@@ -496,15 +496,15 @@
         },
 
         {
-                "question": "Altruism means theexercise of self andlifedevotedto the+++",
+                "question": "Altruism means the exercise of self and life devoted to the +++",
 
                 "options": " ",
 
-                "answer": "goodof others"
+                "answer": "good of others"
         },
 
         {
-                "question": "Altruism is aconscious oppositionto theory+++",
+                "question": "Altruism is a conscious opposition to theory +++",
 
                 "options": " ",
 
@@ -512,7 +512,7 @@
         },
 
         {
-                "question": "Alifemotivatedbyother-centeredness is called+++life",
+                "question": "A life motivated by other-centeredness is called +++ life",
 
                 "options": " ",
 
@@ -520,7 +520,7 @@
         },
 
         {
-                "question": "+++ is thebed-rock of morality.",
+                "question": "+++ is the bed-rock of morality.",
 
                 "options": " ",
 
@@ -528,7 +528,7 @@
         },
 
         {
-                "question": "What theoryis referredto byJosephButler as \u2018self-love\u2019?",
+                "question": "What theory is referred to by Joseph Butler as \u2018self-love\u2019?",
 
                 "options": " ",
 
@@ -536,15 +536,15 @@
         },
 
         {
-                "question": "Thefoundationof egoism is +++",
+                "question": "The foundation of egoism is +++",
 
                 "options": " ",
 
-                "answer": "Humanpsychology"
+                "answer": "Human psychology"
         },
 
         {
-                "question": "\u201cMannever acts if thereis no envisagedgood.\u201d This is theargument of +++",
+                "question": "\u201cMan never acts if there is no envisaged good.\u201d This is the argument of +++",
 
                 "options": " ",
 
@@ -552,7 +552,7 @@
         },
 
         {
-                "question": "Altruism is from theFrenchword+++",
+                "question": "Altruism is from the French word +++",
 
                 "options": " ",
 
@@ -560,7 +560,7 @@
         },
 
         {
-                "question": "Philosophy, as both an academic discipline and activity, covers all areas of\nhumanendeavor.But traditionallyit is dividedinto +++ major branches",
+                "question": "Philosophy, as both an academic discipline and activity, covers all areas of\nhuman endeavor. But traditionally it is divided into +++ major branches",
 
                 "options": " ",
 
@@ -568,7 +568,7 @@
         },
 
         {
-                "question": "Thebranchof philosophythat studies thenature of humanknowledgeis +++",
+                "question": "The branch of philosophy that studies the nature of human knowledge is +++",
 
                 "options": " ",
 
@@ -576,7 +576,7 @@
         },
 
         {
-                "question": "Thebranchof philosophythat searches for theultimatenature of realityis +++",
+                "question": "The branch of philosophy that searches for the ultimate nature of reality is +++",
 
                 "options": " ",
 
@@ -584,7 +584,7 @@
         },
 
         {
-                "question": "Thebranchof philosophythat studies theought of humanconduct is +++",
+                "question": "The branch of philosophy that studies the ought of human conduct is +++",
 
                 "options": " ",
 
@@ -592,7 +592,7 @@
         },
 
         {
-                "question": "+++is treatedas atoolinPhilosophyratherthanabranch.",
+                "question": "+++ is treated as a tool in Philosophy rather than a branch.",
 
                 "options": " ",
 
@@ -600,7 +600,7 @@
         },
 
         {
-                "question": "Thetwo Greek words whereEpistemologyis derivedfrom is +++andlogos",
+                "question": "The two Greek words where Epistemology is derived from is +++ and logos",
 
                 "options": " ",
 
@@ -608,7 +608,7 @@
         },
 
         {
-                "question": "One important question that Epistemology advance is whether knowledge is\nobjectiveor subjective or +++",
+                "question": "One important question that Epistemology advance is whether knowledge is\nobjective or subjective or +++",
 
                 "options": " ",
 
@@ -620,19 +620,19 @@
 
                 "options": " ",
 
-                "answer": "Trueopinion"
+                "answer": "True opinion"
         },
 
         {
-                "question": "JTBmeans +++",
+                "question": "JTB means +++",
 
                 "options": " ",
 
-                "answer": "Justifiedtruebelief"
+                "answer": "Justified true belief"
         },
 
         {
-                "question": "ForX to claim toknowP, Pmust be+++",
+                "question": "For X to claim to know P, P must be +++",
 
                 "options": " ",
 
@@ -640,7 +640,7 @@
         },
 
         {
-                "question": "ForX to claim toknowP, X must +++ that Pis true",
+                "question": "For X to claim to know P, X must +++ that P is true",
 
                 "options": " ",
 
@@ -648,7 +648,7 @@
         },
 
         {
-                "question": "ForX to claim toknowP, X must be+++ that Pis true",
+                "question": "For X to claim to know P, X must be +++ that P is true",
 
                 "options": " ",
 
@@ -656,7 +656,7 @@
         },
 
         {
-                "question": "+++is thetheoryof those whothink that certainknowledge is impossible.",
+                "question": "+++ is the theory of those who think that certain knowledge is impossible.",
 
                 "options": " ",
 
@@ -664,7 +664,7 @@
         },
 
         {
-                "question": "Relativist affirms that +++ of truthis entirelyrelative",
+                "question": "Relativist affirms that +++ of truth is entirely relative",
 
                 "options": " ",
 
@@ -680,7 +680,7 @@
         },
 
         {
-                "question": "Metaphysics studythe natureof +++",
+                "question": "Metaphysics study the nature of +++",
 
                 "options": " ",
 
@@ -688,7 +688,7 @@
         },
 
         {
-                "question": "The questions of the existence of God and the problem of evil are all under which\nbranchof philosophy+++",
+                "question": "The questions of the existence of God and the problem of evil are all under which\nbranch of philosophy +++",
 
                 "options": " ",
 
@@ -696,7 +696,7 @@
         },
 
         {
-                "question": "+++andidealism arethetwo major schools inMetaphysics.",
+                "question": "+++ and idealism are the two major schools in Metaphysics.",
 
                 "options": " ",
 
@@ -704,15 +704,15 @@
         },
 
         {
-                "question": "The Logical positivist criticized Metaphysics and condemned it to flame because\nof the three criteria which anything that constitute knowledge to them must have\nbut whichMetaphysics lack.Thesethreecriteriaare+++anddemonstration",
+                "question": "The Logical positivist criticized Metaphysics and condemned it to flame because\nof the three criteria which anything that constitute knowledge to them must have\nbut which Metaphysics lack. These three criteria are +++ and demonstration",
 
                 "options": " ",
 
-                "answer": "Verificationinvestigation"
+                "answer": "Verification investigation"
         },
 
         {
-                "question": "Physics studies nature but Metaphysics studies thosethings that are +++ nature.",
+                "question": "Physics studies nature but Metaphysics studies those things that are +++ nature.",
 
                 "options": " ",
 
@@ -720,7 +720,7 @@
         },
 
         {
-                "question": "To theidealist what is realis what constitute+++ inthemind",
+                "question": "To the idealist what is real is what constitute +++ in the mind",
 
                 "options": " ",
 
@@ -728,7 +728,7 @@
         },
 
         {
-                "question": "Materialism is adoctrinethat tends to reduceallrealityto +++",
+                "question": "Materialism is a doctrine that tends to reduce all reality to +++",
 
                 "options": " ",
 
@@ -736,19 +736,19 @@
         },
 
         {
-                "question": "Ethics is that branchof philosophyknownas +++",
+                "question": "Ethics is that branch of philosophy known as +++",
 
                 "options": " ",
 
-                "answer": "Moralphilosophy"
+                "answer": "Moral philosophy"
         },
 
         {
-                "question": "The+++ conceives ethics as thelogicalstudyof thelanguageof morals.",
+                "question": "The +++ conceives ethics as the logical study of the language of morals.",
 
                 "options": " ",
 
-                "answer": "Analyticschool"
+                "answer": "Analytic school"
         },
 
         {
@@ -756,11 +756,11 @@
 
                 "options": " ",
 
-                "answer": "Moraljustification"
+                "answer": "Moral justification"
         },
 
         {
-                "question": "There is Metaphysics in Epistemology and there is Epistemology in\nMetaphysics.True or false?+++",
+                "question": "There is Metaphysics in Epistemology and there is Epistemology in\nMetaphysics. True or false? +++",
 
                 "options": " ",
 
@@ -768,7 +768,7 @@
         },
 
         {
-                "question": "Certainty, Objectivity, Absolute and Reliability are all epistemic claims.\nTrueor False?+++",
+                "question": "Certainty, Objectivity, Absolute and Reliability are all epistemic claims.\nTrue or False? +++",
 
                 "options": " ",
 
@@ -776,7 +776,7 @@
         },
 
         {
-                "question": "Thedecisiontoterminateone\u2019s ownlifeis morallybad.Trueor False?+++",
+                "question": "The decision to terminate one\u2019s own life is morally bad. True or False? +++",
 
                 "options": " ",
 
@@ -784,7 +784,7 @@
         },
 
         {
-                "question": "Apart from the core branches of philosophy, there are other branches.\nTrue or false?+++",
+                "question": "Apart from the core branches of philosophy, there are other branches.\nTrue or false? +++",
 
                 "options": " ",
 
@@ -792,31 +792,31 @@
         },
 
         {
-                "question": "Africanphilosophy canbe definedas a criticalreflection of the Africanand\nhis +++",
+                "question": "African philosophy can be defined as a critical reflection of the African and\nhis +++",
 
                 "options": " ",
 
-                "answer": "Experienceof reality"
+                "answer": "Experience of reality"
         },
 
         {
-                "question": "+++ defined African Philosophy as a path to a systematic coherent\ndiscoveryanddisclosureof the Africanas abeing-in-theAfricanworld",
+                "question": "+++ defined African Philosophy as a path to a systematic coherent\ndiscovery and disclosure of the African as a being-in-the African world",
 
                 "options": " ",
 
-                "answer": "C.B.Okolo"
+                "answer": "C. B. Okolo"
         },
 
         {
-                "question": "As a creative rational inquiry, African philosophy seeks to understand,\nclarifyandexplaineveryaspect of the+++",
+                "question": "As a creative rational inquiry, African philosophy seeks to understand,\nclarify and explain every aspect of the +++",
 
                 "options": " ",
 
-                "answer": "Africanexperience"
+                "answer": "African experience"
         },
 
         {
-                "question": "Philosophyclarifies our+++ inanordinaryandsystematicmanner.",
+                "question": "Philosophy clarifies our +++ in an ordinary and systematic manner.",
 
                 "options": " ",
 
@@ -824,11 +824,11 @@
         },
 
         {
-                "question": "+++ deals with the application of logic of the African world and culture to\nAfricansocialdiscourseandinteraction",
+                "question": "+++ deals with the application of logic of the African world and culture to\nAfrican social discourse and interaction",
 
                 "options": " ",
 
-                "answer": "Africanlogic"
+                "answer": "African logic"
         },
 
         {
@@ -836,11 +836,11 @@
 
                 "options": " ",
 
-                "answer": "Africanmetaphysics"
+                "answer": "African metaphysics"
         },
 
         {
-                "question": "According to Momoh (1985). the spirit or vital force is primordial in the\nAfricanconceptionof +++",
+                "question": "According to Momoh (1985). the spirit or vital force is primordial in the\nAfrican conception of +++",
 
                 "options": " ",
 
@@ -848,39 +848,39 @@
         },
 
         {
-                "question": "+++deals withsuchproblems as Africanconcepts of goodandevil",
+                "question": "+++ deals with such problems as African concepts of good and evil",
 
                 "options": " ",
 
-                "answer": "Africanethics"
+                "answer": "African ethics"
         },
 
         {
-                "question": "+++deals withsuchproblems as Africanconcepts of moralobligation",
+                "question": "+++ deals with such problems as African concepts of moral obligation",
 
                 "options": " ",
 
-                "answer": "AfricanEthics"
+                "answer": "African Ethics"
         },
 
         {
-                "question": "+++deals withsuchproblems as Africanconcepts of rights andduties",
+                "question": "+++ deals with such problems as African concepts of rights and duties",
 
                 "options": " ",
 
-                "answer": "Africanethics"
+                "answer": "African ethics"
         },
 
         {
-                "question": "+++deals withtheAfricanconcept of idealforms of government",
+                "question": "+++ deals with the African concept of ideal forms of government",
 
                 "options": " ",
 
-                "answer": "Africansocialandpoliticalphilosophy"
+                "answer": "African social and political philosophy"
         },
 
         {
-                "question": "African philosophy of arts analyses the principle of ideal forms of African\n+++ andworks of arts",
+                "question": "African philosophy of arts analyses the principle of ideal forms of African\n+++ and works of arts",
 
                 "options": " ",
 
@@ -888,7 +888,7 @@
         },
 
         {
-                "question": "According to C. B. Okolo, African Aesthetics opens the door to self\nknowledgeandhence +++",
+                "question": "According to C. B. Okolo, African Aesthetics opens the door to self\nknowledge and hence +++",
 
                 "options": " ",
 
@@ -896,23 +896,15 @@
         },
 
         {
-                "question": "African philosophy must also not neglect the +++ role of philosophy in the\nlife of menandsociety",
+                "question": "African philosophy must also not neglect the +++ role of philosophy in the\nlife of men and society",
 
                 "options": " ",
 
-                "answer": "Moralandethical"
+                "answer": "Moral and ethical"
         },
 
         {
-                "question": "African philosophy of +++ deals with issues such as ideal systems of\nindigenous laws, humanrights andcontracts",
-
-                "options": " ",
-
-                "answer": "Law"
-        },
-
-        {
-                "question": "African philosophy of +++ deals with issues such as ideal systems of\nindigenous contracts, socialobligations andduties",
+                "question": "African philosophy of +++ deals with issues such as ideal systems of\nindigenous laws, human rights and contracts",
 
                 "options": " ",
 
@@ -920,15 +912,23 @@
         },
 
         {
-                "question": "Theportrayalof people\u2019s worldview, beliefs andvalues indicate their+++",
+                "question": "African philosophy of +++ deals with issues such as ideal systems of\nindigenous contracts, social obligations and duties",
 
                 "options": " ",
 
-                "answer": "Perceptionof reality"
+                "answer": "Law"
         },
 
         {
-                "question": "The basic assumption in human beings is that philosophical thought\ncannot be ruledout whereverthere exist acommunityof +++ humanbeings",
+                "question": "The portrayal of people\u2019s worldview, beliefs and values indicate their +++",
+
+                "options": " ",
+
+                "answer": "Perception of reality"
+        },
+
+        {
+                "question": "The basic assumption in human beings is that philosophical thought\ncannot be ruled out wherever there exist a community of +++ human beings",
 
                 "options": " ",
 
@@ -936,7 +936,7 @@
         },
 
         {
-                "question": "Thesubject matterof Africanphilosophyis the Africanand+++",
+                "question": "The subject matter of African philosophy is the African and +++",
 
                 "options": " ",
 
@@ -952,7 +952,7 @@
         },
 
         {
-                "question": "Placid Tempels and Kagame are examples of scholars who believe that\nAfrican philosophy can be sifted from worldviews, myths, proverbs etc. True or\nfalse?+++",
+                "question": "Placid Tempels and Kagame are examples of scholars who believe that\nAfrican philosophy can be sifted from worldviews, myths, proverbs etc. True or\nfalse? +++",
 
                 "options": " ",
 
@@ -968,7 +968,7 @@
         },
 
         {
-                "question": "The view that African Philosophy as presented by the ethno-philosophers\nis amythwas byAfricanPhilosopher C.B.Okolo.True or false?+++",
+                "question": "The view that African Philosophy as presented by the ethno-philosophers\nis a myth was by African Philosopher C. B. Okolo. True or false? +++",
 
                 "options": " ",
 
@@ -976,7 +976,7 @@
         },
 
         {
-                "question": "The view that African Philosophy as presented by the ethno-philosophers\nis amythwas byAfricanPhilosopher PaulinHountondji.True or false?+++",
+                "question": "The view that African Philosophy as presented by the ethno-philosophers\nis a myth was by African Philosopher Paulin Hountondji. True or false? +++",
 
                 "options": " ",
 
@@ -984,7 +984,7 @@
         },
 
         {
-                "question": "The view that African Philosophy as presented by the ethno-philosophers\nis amythwas byJohnMbiti.True or false?+++",
+                "question": "The view that African Philosophy as presented by the ethno-philosophers\nis a myth was by John Mbiti. True or false? +++",
 
                 "options": " ",
 
@@ -992,7 +992,7 @@
         },
 
         {
-                "question": "The study of African philosophy frees us from unsubstantiated beliefs.\nTrueor false?+++",
+                "question": "The study of African philosophy frees us from unsubstantiated beliefs.\nTrue or false? +++",
 
                 "options": " ",
 
@@ -1000,7 +1000,7 @@
         },
 
         {
-                "question": "Entanglement in superstitious beliefs is another benefit of studying\nAfricanphilosophy.Trueor false?+++",
+                "question": "Entanglement in superstitious beliefs is another benefit of studying\nAfrican philosophy. True or false? +++",
 
                 "options": " ",
 
@@ -1016,7 +1016,7 @@
         },
 
         {
-                "question": "Philosophyis worldwide.Trueor false?+++",
+                "question": "Philosophy is worldwide. True or false? +++",
 
                 "options": " ",
 
@@ -1024,7 +1024,7 @@
         },
 
         {
-                "question": "Technologicaleducationrequires philosophy.Trueorfalse?+++",
+                "question": "Technological education requires philosophy. True or false? +++",
 
                 "options": " ",
 
@@ -1032,7 +1032,7 @@
         },
 
         {
-                "question": "\u201cPhilosophy is a rational search for answers to the questions about the\nultimate meaning of reality as a whole and of human life in particular\u201d This\ndefinitionof philosophyis givenby+++",
+                "question": "\u201cPhilosophy is a rational search for answers to the questions about the\nultimate meaning of reality as a whole and of human life in particular\u201d This\ndefinition of philosophy is given by +++",
 
                 "options": " ",
 
@@ -1040,7 +1040,7 @@
         },
 
         {
-                "question": "\u201cPhilosophy is a rational search for answers to the questions that arise in\nthe mind when we reflect on human experience.\u201d This definition of philosophy is\nattributedto +++",
+                "question": "\u201cPhilosophy is a rational search for answers to the questions that arise in\nthe mind when we reflect on human experience.\u201d This definition of philosophy is\nattributed to +++",
 
                 "options": " ",
 
@@ -1048,7 +1048,7 @@
         },
 
         {
-                "question": "\u201cPhilosophy is a rational search for answers to the questions about the\nultimate meaning of reality as a whole and of human life in particular. In other\nwords, Philosophy is a rational search for answers to the questions that arise in\nthe mind when we reflect on human experience.\u201d This definition is perfect\nbecauseit is exhaustive.True or false?+++",
+                "question": "\u201cPhilosophy is a rational search for answers to the questions about the\nultimate meaning of reality as a whole and of human life in particular. In other\nwords, Philosophy is a rational search for answers to the questions that arise in\nthe mind when we reflect on human experience.\u201d This definition is perfect\nbecause it is exhaustive. True or false? +++",
 
                 "options": " ",
 
@@ -1056,23 +1056,23 @@
         },
 
         {
-                "question": "Etymologically, philosophyis +++",
+                "question": "Etymologically, philosophy is +++",
 
                 "options": " ",
 
-                "answer": "Loveof wisdom"
+                "answer": "Love of wisdom"
         },
 
         {
-                "question": "According to Epicurus, philosophy is an activity that secure +++ through\nquestionandanswer",
+                "question": "According to Epicurus, philosophy is an activity that secure +++ through\nquestion and answer",
 
                 "options": " ",
 
-                "answer": "Happylife"
+                "answer": "Happy life"
         },
 
         {
-                "question": "Every human being, regardless of his/her geographical location in the\nuniverse, is endowedwith+++ ability",
+                "question": "Every human being, regardless of his/her geographical location in the\nuniverse, is endowed with +++ ability",
 
                 "options": " ",
 
@@ -1080,23 +1080,23 @@
         },
 
         {
-                "question": "Thosewho areinterestedinwisdom definephilosophyas +++",
+                "question": "Those who are interested in wisdom define philosophy as +++",
 
                 "options": " ",
 
-                "answer": "Loveof wisdom"
+                "answer": "Love of wisdom"
         },
 
         {
-                "question": "Those engaged in meditation and contemplation would define philosophy\nas a+++",
+                "question": "Those engaged in meditation and contemplation would define philosophy\nas a +++",
 
                 "options": " ",
 
-                "answer": "Reflectiveactivity"
+                "answer": "Reflective activity"
         },
 
         {
-                "question": "Fortheanalyticmind, philosophywouldbedefinedas theactivityof +++",
+                "question": "For the analytic mind, philosophy would be defined as the activity of +++",
 
                 "options": " ",
 
@@ -1104,7 +1104,7 @@
         },
 
         {
-                "question": "Philosophy has a very wide range of definition because the thinking ability\nof manis +++",
+                "question": "Philosophy has a very wide range of definition because the thinking ability\nof man is +++",
 
                 "options": " ",
 
@@ -1120,15 +1120,15 @@
         },
 
         {
-                "question": "AccordingtoPlato, knowledgeis JTB.What is JTB? +++",
+                "question": "According to Plato, knowledge is JTB. What is JTB? +++",
 
                 "options": " ",
 
-                "answer": "JustifiedTrue Belief"
+                "answer": "Justified True Belief"
         },
 
         {
-                "question": "Rationalinquirybegins with+++",
+                "question": "Rational inquiry begins with +++",
 
                 "options": " ",
 
@@ -1136,7 +1136,7 @@
         },
 
         {
-                "question": "Rationalinquiryends intheestablishment of +++",
+                "question": "Rational inquiry ends in the establishment of +++",
 
                 "options": " ",
 
@@ -1144,7 +1144,7 @@
         },
 
         {
-                "question": "Anapproachto philosophicalproblems is +++ thinking",
+                "question": "An approach to philosophical problems is +++ thinking",
 
                 "options": " ",
 
@@ -1152,7 +1152,7 @@
         },
 
         {
-                "question": "Anapproachto philosophicalproblems is +++ analysis",
+                "question": "An approach to philosophical problems is +++ analysis",
 
                 "options": " ",
 
@@ -1160,7 +1160,7 @@
         },
 
         {
-                "question": "Anapproachto philosophicalproblems is +++ of ideas.",
+                "question": "An approach to philosophical problems is +++ of ideas.",
 
                 "options": " ",
 
@@ -1168,7 +1168,7 @@
         },
 
         {
-                "question": "Trueorfalse, philosophicalproblems focus on\u201cthereasonof things\u201d?",
+                "question": "True or false, philosophical problems focus on \u201cthe reason of things\u201d?",
 
                 "options": " ",
 
@@ -1176,7 +1176,7 @@
         },
 
         {
-                "question": "Criticalreflections onthemeanings of concepts suchas knowledge,\nreality, mind, obligationandjustice is +++analysis",
+                "question": "Critical reflections on the meanings of concepts such as knowledge,\nreality, mind, obligation and justice is +++ analysis",
 
                 "options": " ",
 
@@ -1184,87 +1184,87 @@
         },
 
         {
-                "question": "Oneof theseis not astatement",
+                "question": "One of these is not a statement",
 
                 "options": [
                         "a. Please help! ",
 
-                        "b. He is onhis way",
+                        "b. He is on his way",
 
-                        "c. Thecarperishedintheaccident",
+                        "c. The car perished in the accident",
 
-                        "d. Shadewrites"
+                        "d. Shade writes"
                 ],
 
                 "answer": "a. Please help! +++"
         },
 
         {
-                "question": "Oneof theseis not astatement",
+                "question": "One of these is not a statement",
 
                 "options": [
-                        "a. Arepoliticians lairs?",
+                        "a. Are politicians lairs? ",
 
                         "b. He is popular",
 
-                        "c. Obasanjowonthe election",
+                        "c. Obasanjo won the election",
 
-                        "d. Obasanjoriggedtheelection"
+                        "d. Obasanjo rigged the election"
                 ],
 
-                "answer": "a. Arepoliticians lairs?+++"
+                "answer": "a. Are politicians lairs? +++"
         },
 
         {
-                "question": "Oneof theseis not astatement",
+                "question": "One of these is not a statement",
 
                 "options": [
-                        "a. Thecolour is red",
+                        "a. The colour is red",
 
-                        "b. It is badlypainted",
+                        "b. It is badly painted",
 
-                        "c. Areyoumad?",
+                        "c. Are you mad? ",
 
-                        "d. Iam agoodartist"
+                        "d. I am a good artist"
                 ],
 
-                "answer": "c. Areyoumad?+++"
+                "answer": "c. Are you mad? +++"
         },
 
         {
-                "question": "Oneof theseis not astatement",
+                "question": "One of these is not a statement",
 
                 "options": [
-                        "a. Kayodeis tall",
+                        "a. Kayode is tall",
 
-                        "b. Femiis short",
+                        "b. Femi is short",
 
-                        "c. Ifeis not too short",
+                        "c. Ife is not too short",
 
-                        "d. Get methetallstudent "
+                        "d. Get me the tall student "
                 ],
 
-                "answer": "d. Get methetallstudent +++"
+                "answer": "d. Get me the tall student +++"
         },
 
         {
-                "question": "Oneof theseis not astatement",
+                "question": "One of these is not a statement",
 
                 "options": [
-                        "a. Iam finished!",
+                        "a. I am finished!",
 
                         "b. What happened?",
 
                         "c. Relax.",
 
-                        "d. Allof theabove "
+                        "d. All of the above "
                 ],
 
-                "answer": "d. Allof theabove +++"
+                "answer": "d. All of the above +++"
         },
 
         {
-                "question": "Oneof theseis theoddoneout",
+                "question": "One of these is the odd one out",
 
                 "options": [
                         "a. Exclamation",
@@ -1273,14 +1273,14 @@
 
                         "c. Command",
 
-                        "d. Proposition"
+                        "d. Proposition "
                 ],
 
-                "answer": "d. Proposition+++"
+                "answer": "d. Proposition +++"
         },
 
         {
-                "question": "Oneof theseis theoddoneout",
+                "question": "One of these is the odd one out",
 
                 "options": [
                         "a. Statement ",
@@ -1296,7 +1296,7 @@
         },
 
         {
-                "question": "Oneof thesecannot beaproposition",
+                "question": "One of these cannot be a proposition",
 
                 "options": [
                         "a. Question",
@@ -1305,112 +1305,112 @@
 
                         "c. Exclamation",
 
-                        "d. Allof theabove "
+                        "d. All of the above "
                 ],
 
-                "answer": "d. Allof theabove +++"
+                "answer": "d. All of the above +++"
         },
 
         {
                 "question": "Premises are",
 
                 "options": [
-                        "a. Propositions that aresentences",
+                        "a. Propositions that are sentences",
 
-                        "b. Propositions that providesupport forotherpropositions ",
+                        "b. Propositions that provide support for other propositions ",
 
-                        "c. Sentences that arepropositions",
+                        "c. Sentences that are propositions",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "b. Propositions that providesupport forotherpropositions +++"
+                "answer": "b. Propositions that provide support for other propositions +++"
         },
 
         {
                 "question": "Conclusions are",
 
                 "options": [
-                        "a. Propositions that aresupportedbyother propositions",
+                        "a. Propositions that are supported by other propositions",
 
-                        "b. Propositions that aretrueorfalse",
+                        "b. Propositions that are true or false",
 
-                        "c. Allof theabove ",
+                        "c. All of the above ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Allof theabove +++"
+                "answer": "c. All of the above +++"
         },
 
         {
-                "question": "Deductivearguments areevaluatedon",
+                "question": "Deductive arguments are evaluated on",
 
                 "options": [
                         "a. Validity",
 
                         "b. Soundness",
 
-                        "c. Allof theabove ",
+                        "c. All of the above ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Allof theabove +++"
+                "answer": "c. All of the above +++"
         },
 
         {
-                "question": "Aninductiveargument is evaluatedon",
+                "question": "An inductive argument is evaluated on",
 
                 "options": [
                         "a. Validity",
 
                         "b. Soundness",
 
-                        "c. Probability",
+                        "c. Probability ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Probability+++"
+                "answer": "c. Probability +++"
         },
 
         {
-                "question": "Anargument is soundif it is",
+                "question": "An argument is sound if it is",
 
                 "options": [
                         "a. Valid",
 
-                        "b. Propositions aretrue",
+                        "b. Propositions are true",
 
-                        "c. Allof theabove ",
+                        "c. All of the above ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Allof theabove +++"
+                "answer": "c. All of the above +++"
         },
 
         null,
 
         {
-                "question": "Anargument is invalidif",
+                "question": "An argument is invalid if",
 
                 "options": [
-                        "a. If allthepropositions arenot true",
+                        "a. If all the propositions are not true",
 
-                        "b. It is possibleto accept thepremises andreject theconclusion",
+                        "b. It is possible to accept the premises and reject the conclusion ",
 
-                        "c. It is theconclusiongivesupport for thepremises",
+                        "c. It is the conclusion give support for the premises",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "b. It is possibleto accept thepremises andreject theconclusion+++"
+                "answer": "b. It is possible to accept the premises and reject the conclusion +++"
         },
 
         {
-                "question": "Therearehowmanytypes of arguments",
+                "question": "There are how many types of arguments",
 
                 "options": " ",
 
@@ -1418,67 +1418,67 @@
         },
 
         {
-                "question": "Thevalidityof anargument is basedonits",
+                "question": "The validity of an argument is based on its",
 
                 "options": [
-                        "a. Formalstructure",
+                        "a. Formal structure ",
 
-                        "b. Structuraldesign",
+                        "b. Structural design",
 
-                        "c. Informalstructure",
+                        "c. Informal structure",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "a. Formalstructure+++"
+                "answer": "a. Formal structure +++"
         },
 
         {
-                "question": "Logicis a",
+                "question": "Logic is a",
 
                 "options": [
-                        "a. Formalscience",
+                        "a. Formal science ",
 
-                        "b. Naturalscience",
+                        "b. Natural science",
 
-                        "c. Thinkingscience",
+                        "c. Thinking science",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "a. Formalscience+++"
+                "answer": "a. Formal science +++"
         },
 
         {
-                "question": "\u201cAll universities are headed by a vice chancellor. Since FUTA is a university, it is\nheadedbyavicechancellor.\u201d This argument is",
+                "question": "\u201cAll universities are headed by a vice chancellor. Since FUTA is a university, it is\nheaded by a vice chancellor.\u201d This argument is",
 
                 "options": [
                         "a. Valid",
 
                         "b. Sound",
 
-                        "c. Allof theabove ",
+                        "c. All of the above ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Allof theabove +++"
+                "answer": "c. All of the above +++"
         },
 
         {
-                "question": "\u201cAkure is the capital city of Ondo state, then the state house must be located in\nAkure because allstatehouses arelocatedinstate capitals.\u201d This argument is",
+                "question": "\u201cAkure is the capital city of Ondo state, then the state house must be located in\nAkure because all state houses are located in state capitals.\u201d This argument is",
 
                 "options": [
                         "a. Invalid",
 
-                        "b. Sound",
+                        "b. Sound ",
 
                         "c. Unsound",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "b. Sound+++"
+                "answer": "b. Sound +++"
         },
 
         null,
@@ -1489,46 +1489,46 @@
                 "options": [
                         "a. Valid",
 
-                        "b. Invalid",
+                        "b. Invalid ",
 
                         "c. Sound",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "b. Invalid+++"
+                "answer": "b. Invalid +++"
         },
 
         {
-                "question": "\u201cAll private universities in Nigeria are owned by churches. Bowen and Achievers\nareprivateuniversities inNigeria.BowenandAchievers are ownedbychurches\u201d",
+                "question": "\u201cAll private universities in Nigeria are owned by churches. Bowen and Achievers\nare private universities in Nigeria. Bowen and Achievers are owned by churches\u201d",
 
                 "options": [
                         "a. Valid",
 
                         "b. Unsound",
 
-                        "c. Allof theabove ",
+                        "c. All of the above ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Allof theabove +++"
+                "answer": "c. All of the above +++"
         },
 
         {
-                "question": "\u201cWomen visit the hairdressing salon every week. Yemi will visit the hairdressing\nsalonthis week because she is awoman.\u201d This argument is",
+                "question": "\u201cWomen visit the hairdressing salon every week. Yemi will visit the hairdressing\nsalon this week because she is a woman.\u201d This argument is",
 
                 "options": [
                         "a. Invalid",
 
                         "b. Sound",
 
-                        "c. Unsound",
+                        "c. Unsound ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Unsound+++"
+                "answer": "c. Unsound +++"
         },
 
         {
@@ -1539,48 +1539,48 @@
 
                         "b. Unsound",
 
-                        "c. Allof theabove ",
+                        "c. All of the above ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Allof theabove +++"
+                "answer": "c. All of the above +++"
         },
 
         {
-                "question": "Adeductiveargument canreasonfrom",
+                "question": "A deductive argument can reason from",
 
                 "options": [
-                        "a. Generaltoparticular",
+                        "a. General to particular",
 
                         "b. Particular to particular",
 
-                        "c. Allof theabove ",
+                        "c. All of the above ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Allof theabove +++"
+                "answer": "c. All of the above +++"
         },
 
         {
-                "question": "Nonsequiturliterarilymeans",
+                "question": "Non sequitur literarily means",
 
                 "options": [
-                        "a. It does not follow",
+                        "a. It does not follow ",
 
                         "b. It is not possible",
 
                         "c. It is not true",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "a. It does not follow+++"
+                "answer": "a. It does not follow +++"
         },
 
         {
-                "question": "Nonsequiturmeans the connectionbetweenthepremises andconclusionare",
+                "question": "Non sequitur means the connection between the premises and conclusion are",
 
                 "options": [
                         "a. Relevant",
@@ -1596,295 +1596,295 @@
         },
 
         {
-                "question": "Whichof thefollowingis anexampleof formalfallacy",
+                "question": "Which of the following is an example of formal fallacy",
 
                 "options": [
-                        "a. Fallacyof denyingthe antecedent",
+                        "a. Fallacy of denying the antecedent",
 
-                        "b. Fallacyof affirming theconsequent",
+                        "b. Fallacy of affirming the consequent",
 
-                        "c. Allof theabove ",
+                        "c. All of the above ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Allof theabove +++"
+                "answer": "c. All of the above +++"
         },
 
         {
-                "question": "Argumentum adBaculum is the Latinname for thefallacyof",
+                "question": "Argumentum ad Baculum is the Latin name for the fallacy of",
 
                 "options": [
-                        "a. Appealto ignorance",
+                        "a. Appeal to ignorance",
 
-                        "b. Appealto force ",
+                        "b. Appeal to force ",
 
-                        "c. Appealto popular prejudice",
+                        "c. Appeal to popular prejudice",
 
-                        "d. Appealto pity"
+                        "d. Appeal to pity"
                 ],
 
-                "answer": "b. Appealto force +++"
+                "answer": "b. Appeal to force +++"
         },
 
         {
-                "question": "Argumentum adBaculum is the Latinname for thefallacyof",
+                "question": "Argumentum ad Baculum is the Latin name for the fallacy of",
 
                 "options": [
-                        "a. Appealto relevance",
+                        "a. Appeal to relevance",
 
-                        "b. Appealto battle",
+                        "b. Appeal to battle",
 
-                        "c. Appealto vacuum",
+                        "c. Appeal to vacuum",
 
-                        "d. Noneof the above"
+                        "d. None of the above "
                 ],
 
-                "answer": "d. Noneof the above+++"
+                "answer": "d. None of the above +++"
         },
 
         {
-                "question": "Argumentum adIgnorantiam is theLatinnamefor thefallacyof",
+                "question": "Argumentum ad Ignorantiam is the Latin name for the fallacy of",
 
                 "options": [
-                        "a. Appealto knowledge",
+                        "a. Appeal to knowledge",
 
-                        "b. Appealto pity",
+                        "b. Appeal to pity",
 
-                        "c. Appealto ignorance",
+                        "c. Appeal to ignorance ",
 
-                        "d. Appealto authority"
+                        "d. Appeal to authority"
                 ],
 
-                "answer": "c. Appealto ignorance+++"
+                "answer": "c. Appeal to ignorance +++"
         },
 
         {
-                "question": "Argumentum adIgnorantiam is theLatinnamefor thefallacyof",
+                "question": "Argumentum ad Ignorantiam is the Latin name for the fallacy of",
 
                 "options": [
-                        "a. Appealto theist",
+                        "a. Appeal to theist",
 
-                        "b. Appealto knowledge",
+                        "b. Appeal to knowledge",
 
-                        "c. Appealto force",
+                        "c. Appeal to force",
 
-                        "d. Noneof the above"
+                        "d. None of the above "
                 ],
 
-                "answer": "d. Noneof the above+++"
+                "answer": "d. None of the above +++"
         },
 
         {
-                "question": "Argumentum admisercordiam is theLatinnameforthefallacyof",
+                "question": "Argumentum ad misercordiam is the Latin name for the fallacy of",
 
                 "options": [
-                        "a. Appealto misery",
+                        "a. Appeal to misery",
 
-                        "b. Appealto force",
+                        "b. Appeal to force",
 
-                        "c. Appealto pity",
+                        "c. Appeal to pity ",
 
-                        "d. Appealto baculum"
+                        "d. Appeal to baculum"
                 ],
 
-                "answer": "c. Appealto pity+++"
+                "answer": "c. Appeal to pity +++"
         },
 
         {
-                "question": "Argumentum adverecundiam is theLatinnamefor thefallacyof",
+                "question": "Argumentum ad verecundiam is the Latin name for the fallacy of",
 
                 "options": [
-                        "a. Appealto Viennacircle",
+                        "a. Appeal to Vienna circle",
 
-                        "b. Appealto position",
+                        "b. Appeal to position",
 
-                        "c. Appealto authority",
+                        "c. Appeal to authority ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Appealto authority+++"
+                "answer": "c. Appeal to authority +++"
         },
 
         {
-                "question": "Argumentum adpopulum is theLatinnamefortheFallacyof",
+                "question": "Argumentum ad populum is the Latin name for the Fallacy of",
 
                 "options": [
-                        "a. Appealto population",
+                        "a. Appeal to population",
 
-                        "b. Appealto Popularity",
+                        "b. Appeal to Popularity",
 
-                        "c. Appealto Popularprejudice",
+                        "c. Appeal to Popular prejudice ",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "c. Appealto Popularprejudice+++"
+                "answer": "c. Appeal to Popular prejudice +++"
         },
 
         {
-                "question": "Argumentum adpopulum is theLatinnameforthefallacyof",
+                "question": "Argumentum ad populum is the Latin name for the fallacy of",
 
                 "options": [
-                        "a. Appealto popularity",
+                        "a. Appeal to popularity",
 
-                        "b. Appealto Popularviews",
+                        "b. Appeal to Popular views",
 
-                        "c. Appealto prejudice",
+                        "c. Appeal to prejudice",
 
-                        "d. Noneof the above"
+                        "d. None of the above "
                 ],
 
-                "answer": "d. Noneof the above+++"
+                "answer": "d. None of the above +++"
         },
 
         {
-                "question": "Argumentum adpopulum is theLatinnameforthefallacyof",
+                "question": "Argumentum ad populum is the Latin name for the fallacy of",
 
                 "options": [
-                        "a. Appealto people",
+                        "a. Appeal to people",
 
-                        "b. Appealto force",
+                        "b. Appeal to force",
 
-                        "c. Appealto pity",
+                        "c. Appeal to pity",
 
-                        "d. Noneof the above"
+                        "d. None of the above "
                 ],
 
-                "answer": "d. Noneof the above+++"
+                "answer": "d. None of the above +++"
         },
 
         {
-                "question": "Argumentum adHominem is theLatinnameforthefallacyof",
+                "question": "Argumentum ad Hominem is the Latin name for the fallacy of",
 
                 "options": [
-                        "a. Appealto authority",
+                        "a. Appeal to authority",
 
-                        "b. Appealto popular prejudice",
+                        "b. Appeal to popular prejudice",
 
-                        "c. Attackingthe person",
+                        "c. Attacking the person ",
 
-                        "d. Appealto force"
+                        "d. Appeal to force"
                 ],
 
-                "answer": "c. Attackingthe person+++"
+                "answer": "c. Attacking the person +++"
         },
 
         {
-                "question": "Argumentum adHominem canbe",
+                "question": "Argumentum ad Hominem can be",
 
                 "options": [
-                        "a. Abusive",
+                        "a. Abusive ",
 
                         "b. Cursing",
 
                         "c. Foolish",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "a. Abusive+++"
+                "answer": "a. Abusive +++"
         },
 
         {
-                "question": "Argumentum adHominem canbe",
+                "question": "Argumentum ad Hominem can be",
 
                 "options": [
                         "a. Provincial",
 
-                        "b. Circumstantial",
+                        "b. Circumstantial ",
 
                         "c. Conditional",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "b. Circumstantial+++"
+                "answer": "b. Circumstantial +++"
         },
 
         {
-                "question": "Argumentum adHominem canbe",
+                "question": "Argumentum ad Hominem can be",
 
                 "options": [
                         "a. Circumstantial",
 
                         "b. Abusive",
 
-                        "c. Allof theabove ",
+                        "c. All of the above ",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "c. Allof theabove +++"
+                "answer": "c. All of the above +++"
         },
 
         {
-                "question": "Fallacies of relevanceis also as",
+                "question": "Fallacies of relevance is also as",
 
                 "options": [
-                        "a. Ignorancelenchi",
+                        "a. Ignorance lenchi",
 
-                        "b. Ignorancioelenchion",
+                        "b. Ignorancio elenchion",
 
-                        "c. Ignorantio elenchi",
+                        "c. Ignorantio elenchi ",
 
-                        "d. Ignorantionelenchion"
+                        "d. Ignorantion elenchion"
                 ],
 
-                "answer": "c. Ignorantio elenchi+++"
+                "answer": "c. Ignorantio elenchi +++"
         },
 
         {
-                "question": "Oneof theseis theoddoneout",
+                "question": "One of these is the odd one out",
 
                 "options": [
-                        "a. Fallacyof affirming theconsequent ",
+                        "a. Fallacy of affirming the consequent ",
 
-                        "b. Argumentum adbaculum",
+                        "b. Argumentum ad baculum",
 
-                        "c. Fallacyof division",
+                        "c. Fallacy of division",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "a. Fallacyof affirming theconsequent +++"
+                "answer": "a. Fallacy of affirming the consequent +++"
         },
 
         {
-                "question": "Oneof theseis theoddoneout",
+                "question": "One of these is the odd one out",
 
                 "options": [
-                        "a. fallacyof denyingthe consequent ",
+                        "a. fallacy of denying the consequent ",
 
-                        "b. fallacyof equivocation",
+                        "b. fallacy of equivocation",
 
-                        "c. fallacyof hastygeneralisation",
+                        "c. fallacy of hasty generalisation",
 
-                        "d. noneof theabove"
+                        "d. none of the above"
                 ],
 
-                "answer": "a. fallacyof denyingthe consequent +++"
+                "answer": "a. fallacy of denying the consequent +++"
         },
 
         {
-                "question": "Oneof theseis theoddoneout",
+                "question": "One of these is the odd one out",
 
                 "options": [
-                        "a. Fallacyof composition",
+                        "a. Fallacy of composition",
 
-                        "b. Fallacyof division",
+                        "b. Fallacy of division",
 
                         "c. Complex question",
 
-                        "d. Noneof the above"
+                        "d. None of the above "
                 ],
 
-                "answer": "d. Noneof the above+++"
+                "answer": "d. None of the above +++"
         },
 
         {
-                "question": "Formalfallacies violatetherule of",
+                "question": "Formal fallacies violate the rule of",
 
                 "options": [
                         "a. Modus Vivendi",
@@ -1893,30 +1893,30 @@
 
                         "c. Modus Ponens ",
 
-                        "d. HypotheticalSyllogism"
+                        "d. Hypothetical Syllogism"
                 ],
 
                 "answer": "c. Modus Ponens +++"
         },
 
         {
-                "question": "Fallacies of relevancearealso called",
+                "question": "Fallacies of relevance are also called",
 
                 "options": [
-                        "a. Ignoratio elenchi",
+                        "a. Ignoratio elenchi ",
 
-                        "b. Elenchiignoratio",
+                        "b. Elenchi ignoratio",
 
                         "c. Vivinco elenchi",
 
-                        "d. Nonsequitur"
+                        "d. Non sequitur"
                 ],
 
-                "answer": "a. Ignoratio elenchi+++"
+                "answer": "a. Ignoratio elenchi +++"
         },
 
         {
-                "question": "Thefollowingis anexampleof anargument that follows theruleof ---------------------\nAllmenaremortal\nSocrates is aman\nTherefore, Socrates is mortal",
+                "question": "The following is an example of an argument that follows the rule of ---------------------\nAll men are mortal\nSocrates is a man\nTherefore, Socrates is mortal",
 
                 "options": [
                         "a. Modus Vivendi",
@@ -1925,22 +1925,22 @@
 
                         "c. Modus Marana",
 
-                        "d. HypotheticalSyllogism"
+                        "d. Hypothetical Syllogism"
                 ],
 
                 "answer": "b. Modus Ponens +++"
         },
 
         {
-                "question": "This is trueabout formalfallacies:",
+                "question": "This is true about formal fallacies:",
 
                 "options": " ",
 
-                "answer": "Theyaffirm theconsequent anddenytheantecedent +++"
+                "answer": "They affirm the consequent and deny the antecedent +++"
         },
 
         {
-                "question": "Another wordfor apropositionis:",
+                "question": "Another word for a proposition is:",
 
                 "options": [
                         "a. Statement ",
@@ -1959,23 +1959,23 @@
                 "question": "Logically, sentences are:",
 
                 "options": [
-                        "a. Merearrayof symbols ",
+                        "a. Mere array of symbols ",
 
-                        "b. Merearrayof logicalrules",
+                        "b. Mere array of logical rules",
 
-                        "c. Merearrayof logicalpoints",
+                        "c. Mere array of logical points",
 
-                        "d. Merearrayof quantifiers"
+                        "d. Mere array of quantifiers"
                 ],
 
-                "answer": "a. Merearrayof symbols +++"
+                "answer": "a. Mere array of symbols +++"
         },
 
         {
-                "question": "Another wordfor \u201cpremise\u201d is \u2026\u2026\u2026\u2026..",
+                "question": "Another word for \u201cpremise\u201d is \u2026\u2026\u2026\u2026..",
 
                 "options": [
-                        "a. Reason",
+                        "a. Reason ",
 
                         "b. Reasoning",
 
@@ -1984,27 +1984,27 @@
                         "d. Evidence"
                 ],
 
-                "answer": "a. Reason+++"
+                "answer": "a. Reason +++"
         },
 
         {
-                "question": "Allbut oneof thesearerules of inference",
+                "question": "All but one of these are rules of inference",
 
                 "options": [
                         "a. Modus Tollens",
 
                         "b. Modus Ponens",
 
-                        "c. ConstructiveDilemma",
+                        "c. Constructive Dilemma",
 
-                        "d. HypothermicSyllogism "
+                        "d. Hypothermic Syllogism "
                 ],
 
-                "answer": "d. HypothermicSyllogism +++"
+                "answer": "d. Hypothermic Syllogism +++"
         },
 
         {
-                "question": "Allbut oneof thesearelogicalconnectives",
+                "question": "All but one of these are logical connectives",
 
                 "options": " ",
 
@@ -2012,71 +2012,71 @@
         },
 
         {
-                "question": "What is thelanguageusedtoexpress negation",
+                "question": "What is the language used to express negation",
 
                 "options": [
-                        "a. It is thecase",
+                        "a. It is the case",
 
-                        "b. It is not thecase",
+                        "b. It is not the case ",
 
-                        "c. It is not not thecase",
+                        "c. It is not not the case",
 
-                        "d. It is thecasenot the case"
+                        "d. It is the case not the case"
                 ],
 
-                "answer": "b. It is not thecase+++"
+                "answer": "b. It is not the case +++"
         },
 
         {
-                "question": "To determinethevalidityof theaboveargument, oneof the followingapplies:",
+                "question": "To determine the validity of the above argument, one of the following applies:",
 
                 "options": [
-                        "a. Thepremises aretrueandtheconclusionis false",
+                        "a. The premises are true and the conclusion is false",
 
-                        "b. Theargument is trueandinvalid",
+                        "b. The argument is true and invalid",
 
-                        "c. Theargument is validand sound",
+                        "c. The argument is valid and sound",
 
-                        "d. Wecanaccept the premises andalso accept the conclusion"
+                        "d. We can accept the premises and also accept the conclusion "
                 ],
 
-                "answer": "d. Wecanaccept the premises andalso accept the conclusion+++"
+                "answer": "d. We can accept the premises and also accept the conclusion +++"
         },
 
         {
-                "question": "To determinetheinvalidityof the argument, oneof thefollowing applies:",
+                "question": "To determine the invalidity of the argument, one of the following applies:",
 
                 "options": [
-                        "a. Weaccept boththe premises andtheconclusion",
+                        "a. We accept both the premises and the conclusion",
 
-                        "b. Theargument is trueandsound",
+                        "b. The argument is true and sound",
 
-                        "c. Theargument is validand sound",
+                        "c. The argument is valid and sound",
 
-                        "d. Thepremises aretrueandtheconclusionis false "
+                        "d. The premises are true and the conclusion is false "
                 ],
 
-                "answer": "d. Thepremises aretrueandtheconclusionis false +++"
+                "answer": "d. The premises are true and the conclusion is false +++"
         },
 
         {
-                "question": "Oneof theseis theoddoneout",
+                "question": "One of these is the odd one out",
 
                 "options": [
-                        "a. Fallacyof composition",
+                        "a. Fallacy of composition",
 
-                        "b. Fallacyof division",
+                        "b. Fallacy of division",
 
                         "c. Complex question",
 
-                        "d. Noneof the above"
+                        "d. None of the above "
                 ],
 
-                "answer": "d. Noneof the above+++"
+                "answer": "d. None of the above +++"
         },
 
         {
-                "question": "Letters ---------- arelogicalvariables",
+                "question": "Letters ---------- are logical variables",
 
                 "options": " ",
 
@@ -2084,97 +2084,97 @@
         },
 
         {
-                "question": "Thelawof ----------- is alawof thought",
+                "question": "The law of ----------- is a law of thought",
 
                 "options": [
-                        "a. Identity",
+                        "a. Identity ",
 
                         "b. Identifier",
 
-                        "c. Exclusivemiddle",
+                        "c. Exclusive middle",
 
-                        "d. Brokenmiddle"
+                        "d. Broken middle"
                 ],
 
-                "answer": "a. Identity+++"
+                "answer": "a. Identity +++"
         },
 
         {
-                "question": "Thelawof ----------- is alawof thought",
+                "question": "The law of ----------- is a law of thought",
 
                 "options": [
                         "a. Contraposition",
 
                         "b. Multiplier",
 
-                        "c. Contradiction",
+                        "c. Contradiction ",
 
-                        "d. Identitymiddle"
+                        "d. Identity middle"
                 ],
 
-                "answer": "c. Contradiction+++"
+                "answer": "c. Contradiction +++"
         },
 
         {
-                "question": "Another nameforBiconditionalis:",
+                "question": "Another name for Biconditional is:",
 
                 "options": [
-                        "a. If not onlyif",
+                        "a. If not only if",
 
-                        "b. Onlyif not",
+                        "b. Only if not",
 
-                        "c. If andonlyif ",
+                        "c. If and only if ",
 
-                        "d. Not if onlyif"
+                        "d. Not if only if"
                 ],
 
-                "answer": "c. If andonlyif +++"
+                "answer": "c. If and only if +++"
         },
 
         {
-                "question": "Conjunctionis trueonlywhen:",
+                "question": "Conjunction is true only when:",
 
                 "options": [
-                        "a. Boththeconjuncts are true ",
+                        "a. Both the conjuncts are true ",
 
-                        "b. Theantecedent is trueonly",
+                        "b. The antecedent is true only",
 
-                        "c. Theconsequent is trueonly",
+                        "c. The consequent is true only",
 
-                        "d. Boththeantecedent andconsequent arefalsetogether"
+                        "d. Both the antecedent and consequent are false together"
                 ],
 
-                "answer": "a. Boththeconjuncts are true +++"
+                "answer": "a. Both the conjuncts are true +++"
         },
 
         {
-                "question": "Disjunctionis falseintheinclusivesensewhen:",
+                "question": "Disjunction is false in the inclusive sense when:",
 
                 "options": " ",
 
-                "answer": "Theconsequent is trueonly"
+                "answer": "The consequent is true only"
         },
 
         {
-                "question": "Disjunctionis falseintheexclusivesensewhen:",
+                "question": "Disjunction is false in the exclusive sense when:",
 
                 "options": [
-                        "a. Theconsequent is trueonly",
+                        "a. The consequent is true only",
 
-                        "b. Bothalternatives areeither bothtrueor bothfalse",
+                        "b. Both alternatives are either both true or both false ",
 
-                        "c. Theantecedent is trueonly",
+                        "c. The antecedent is true only",
 
-                        "d. Boththeconsequent andantecedent aretruetogether"
+                        "d. Both the consequent and antecedent are true together"
                 ],
 
-                "answer": "b. Bothalternatives areeither bothtrueor bothfalse+++"
+                "answer": "b. Both alternatives are either both true or both false +++"
         },
 
         null,
 
         {
-                "question": "Anegation-----------that somethingis thecaseinastatement",
+                "question": "A negation -----------that something is the case in a statement",
 
                 "options": [
                         "a. Affirms",
@@ -2190,119 +2190,119 @@
         },
 
         {
-                "question": "--------------ruleholds that from aconditionalstatement andthenegationof its\nconsequent we canvalidlyaffirm thenegationof its antecedent.",
+                "question": "--------------rule holds that from a conditional statement and the negation of its\nconsequent we can validly affirm the negation of its antecedent.",
 
                 "options": [
                         "a. Modus Ponens",
 
                         "b. Modus Tollens ",
 
-                        "c. ConstructiveDilemma",
+                        "c. Constructive Dilemma",
 
-                        "d. DestructiveDilemma"
+                        "d. Destructive Dilemma"
                 ],
 
                 "answer": "b. Modus Tollens +++"
         },
 
         {
-                "question": "That apropositioncannot betrueandfalse at thesame timeobeys thelawof",
+                "question": "That a proposition cannot be true and false at the same time obeys the law of",
 
                 "options": [
                         "a. Nature",
 
                         "b. Identity",
 
-                        "c. Contradiction",
+                        "c. Contradiction ",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "c. Contradiction+++"
+                "answer": "c. Contradiction +++"
         },
 
         {
-                "question": "Apropositionthat is neithertruenor falseis against thelawof",
+                "question": "A proposition that is neither true nor false is against the law of",
 
                 "options": [
                         "a. Gravity",
 
-                        "b. Lawof concepts",
+                        "b. Law of concepts",
 
-                        "c. Lawof excludedmiddle",
+                        "c. Law of excluded middle ",
 
-                        "d. Lawof contradiction"
+                        "d. Law of contradiction"
                 ],
 
-                "answer": "c. Lawof excludedmiddle+++"
+                "answer": "c. Law of excluded middle +++"
         },
 
         {
-                "question": "If anythingAis not Acontradicts thelawof",
+                "question": "If anything A is not A contradicts the law of",
 
                 "options": [
-                        "a. Noncontradiction",
+                        "a. Non contradiction",
 
-                        "b. Identity",
+                        "b. Identity ",
 
-                        "c. Allof theabove",
+                        "c. All of the above",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "b. Identity+++"
+                "answer": "b. Identity +++"
         },
 
         {
-                "question": "Thelaws of thought were identifiedby",
+                "question": "The laws of thought were identified by",
 
                 "options": [
-                        "a. JohnLocke",
+                        "a. John Locke",
 
-                        "b. Aristotle",
+                        "b. Aristotle ",
 
                         "c. Socrates",
 
-                        "d. JosephOmoregbe"
+                        "d. Joseph Omoregbe"
                 ],
 
-                "answer": "b. Aristotle+++"
+                "answer": "b. Aristotle +++"
         },
 
         {
-                "question": "Whentheconclusionis acombinationof simplestatements that haveformed\nthefirst andsecondpremises, thenit is a",
+                "question": "When the conclusion is a combination of simple statements that have formed\nthe first and second premises, then it is a",
 
                 "options": [
-                        "a. Conjunction",
+                        "a. Conjunction ",
 
                         "b. Combination",
 
                         "c. Fusion",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "a. Conjunction+++"
+                "answer": "a. Conjunction +++"
         },
 
         {
-                "question": "Thehorse is thesymbolof a_____",
+                "question": "The horse is the symbol of a _____",
 
                 "options": [
                         "a. Conjunction",
 
                         "b. Biconditional",
 
-                        "c. Conditional",
+                        "c. Conditional ",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "c. Conditional+++"
+                "answer": "c. Conditional +++"
         },
 
         {
-                "question": "Thevelis asymbolfor",
+                "question": "The vel is a symbol for",
 
                 "options": [
                         "a. Negation",
@@ -2311,19 +2311,19 @@
 
                         "c. Conditional",
 
-                        "d. Disjunction"
+                        "d. Disjunction "
                 ],
 
-                "answer": "d. Disjunction+++"
+                "answer": "d. Disjunction +++"
         },
 
         null,
 
         {
-                "question": "Allbirds havewings.Thesparrowis abird.Therefore, the sparrowhas wings.\nThis argument is",
+                "question": "All birds have wings. The sparrow is a bird. Therefore, the sparrow has wings.\nThis argument is",
 
                 "options": [
-                        "a. Valid",
+                        "a. Valid ",
 
                         "b. Invalid",
 
@@ -2332,14 +2332,14 @@
                         "d. Unsound"
                 ],
 
-                "answer": "a. Valid+++"
+                "answer": "a. Valid +++"
         },
 
         {
-                "question": "Allbirds havewings.Thesparrowis abird.Therefore, the sparrowhas wings.\nThis argument is:",
+                "question": "All birds have wings. The sparrow is a bird. Therefore, the sparrow has wings.\nThis argument is:",
 
                 "options": [
-                        "a. Sound",
+                        "a. Sound ",
 
                         "b. Invalid",
 
@@ -2348,11 +2348,11 @@
                         "d. Weak"
                 ],
 
-                "answer": "a. Sound+++"
+                "answer": "a. Sound +++"
         },
 
         {
-                "question": "Theinferenceof adeductiveargument is +++",
+                "question": "The inference of a deductive argument is +++",
 
                 "options": " ",
 
@@ -2360,7 +2360,7 @@
         },
 
         {
-                "question": "Aninductiveargument is evaluatedbasedonthedegreeof +++",
+                "question": "An inductive argument is evaluated based on the degree of +++",
 
                 "options": " ",
 
@@ -2368,7 +2368,7 @@
         },
 
         {
-                "question": "When the premises provide sufficient grounds for the conclusion, the argument\nis of whichtype?+++argument",
+                "question": "When the premises provide sufficient grounds for the conclusion, the argument\nis of which type? +++ argument",
 
                 "options": " ",
 
@@ -2376,7 +2376,7 @@
         },
 
         {
-                "question": "Themainstatement inanarguments is called+++",
+                "question": "The main statement in an arguments is called +++",
 
                 "options": " ",
 
@@ -2384,7 +2384,7 @@
         },
 
         {
-                "question": "Inlogic, anargument is made upof agroup of +++",
+                "question": "In logic, an argument is made up of a group of +++",
 
                 "options": " ",
 
@@ -2392,7 +2392,7 @@
         },
 
         {
-                "question": "When it is possible for all the premises to be true yet the conclusion derived from\nthem false, theargument is of whichtype?+++arguments",
+                "question": "When it is possible for all the premises to be true yet the conclusion derived from\nthem false, the argument is of which type? +++ arguments",
 
                 "options": " ",
 
@@ -2400,7 +2400,7 @@
         },
 
         {
-                "question": "The type of reasoning which the conclusion includes more information than\ncontainedinthe premises is +++ arguments",
+                "question": "The type of reasoning which the conclusion includes more information than\ncontained in the premises is +++ arguments",
 
                 "options": " ",
 
@@ -2408,7 +2408,7 @@
         },
 
         {
-                "question": "\u201cThe pastor is either in the church or in the vicarage. Since he is in vicarage, he\ncannot beinthechurch\u201d This argument is of whichtype?+++ arguments",
+                "question": "\u201cThe pastor is either in the church or in the vicarage. Since he is in vicarage, he\ncannot be in the church\u201d This argument is of which type? +++ arguments",
 
                 "options": " ",
 
@@ -2416,7 +2416,7 @@
         },
 
         {
-                "question": "\u201cAll state governors are Nigerians. Only state governors belong to the Governors\u2019\nForum. Therefore, all members of the Governors\u2019 Forum are Nigerians\u201d This is a\ntypeof +++ argument",
+                "question": "\u201cAll state governors are Nigerians. Only state governors belong to the Governors\u2019\nForum. Therefore, all members of the Governors\u2019 Forum are Nigerians\u201d This is a\ntype of +++ argument",
 
                 "options": " ",
 
@@ -2424,7 +2424,7 @@
         },
 
         {
-                "question": "\u201cThe newspaper vendor brings the chairman\u2019s copy 8.00am every day. Since the\nsecretary opened late this morning, she must have missed the delivery of the\nchairman\u2019s newspaper.\u201d This argument is of whichtype?+++ arguments",
+                "question": "\u201cThe newspaper vendor brings the chairman\u2019s copy 8.00am every day. Since the\nsecretary opened late this morning, she must have missed the delivery of the\nchairman\u2019s newspaper.\u201d This argument is of which type? +++ arguments",
 
                 "options": " ",
 
@@ -2432,7 +2432,7 @@
         },
 
         {
-                "question": "\u201cAlthough she comes to school on other days, she feigns sickness every Friday\nwhen I teach their class and stays off school. I know Janet is avoiding me.\u201d This\nargument is of whichtype?+++ arguments",
+                "question": "\u201cAlthough she comes to school on other days, she feigns sickness every Friday\nwhen I teach their class and stays off school. I know Janet is avoiding me.\u201d This\nargument is of which type? +++ arguments",
 
                 "options": " ",
 
@@ -2440,7 +2440,7 @@
         },
 
         {
-                "question": "The type of argument that increases or decreases the confidence of the truth of\ntheconclusionbytheadditionof newpremises is +++ argument",
+                "question": "The type of argument that increases or decreases the confidence of the truth of\nthe conclusion by the addition of new premises is +++ argument",
 
                 "options": " ",
 
@@ -2448,7 +2448,7 @@
         },
 
         {
-                "question": "Atoolof philosophythat canalso serve as abranchis +++",
+                "question": "A tool of philosophy that can also serve as a branch is +++",
 
                 "options": " ",
 
@@ -2456,7 +2456,7 @@
         },
 
         {
-                "question": "Abranchof philosophythat cuts across allotherbranches of philosophyis +++",
+                "question": "A branch of philosophy that cuts across all other branches of philosophy is +++",
 
                 "options": " ",
 
@@ -2464,7 +2464,7 @@
         },
 
         {
-                "question": "Logicdeals withtheappraisalof +++",
+                "question": "Logic deals with the appraisal of +++",
 
                 "options": " ",
 
@@ -2472,7 +2472,7 @@
         },
 
         {
-                "question": "Logicis thestudyof thenorms of +++",
+                "question": "Logic is the study of the norms of +++",
 
                 "options": " ",
 
@@ -2480,7 +2480,7 @@
         },
 
         {
-                "question": "Argument seenas adisagreement is seeninits +++sense",
+                "question": "Argument seen as a disagreement is seen in its +++ sense",
 
                 "options": " ",
 
@@ -2488,7 +2488,7 @@
         },
 
         {
-                "question": "Arguments seenfrom the philosophicalperspectiveis seeninits +++sense",
+                "question": "Arguments seen from the philosophical perspective is seen in its +++ sense",
 
                 "options": " ",
 
@@ -2496,7 +2496,7 @@
         },
 
         {
-                "question": "Adeclarativesentencethat forms part of anargument is called+++",
+                "question": "A declarative sentence that forms part of an argument is called +++",
 
                 "options": " ",
 
@@ -2504,7 +2504,7 @@
         },
 
         {
-                "question": "Fallacies are+++ inreasoning",
+                "question": "Fallacies are +++ in reasoning",
 
                 "options": " ",
 
@@ -2512,7 +2512,7 @@
         },
 
         {
-                "question": "Afallacyis alogically+++ argument",
+                "question": "A fallacy is a logically +++ argument",
 
                 "options": " ",
 
@@ -2528,7 +2528,7 @@
         },
 
         {
-                "question": "Thefallacyof affirmingtheconsequent neglects theruleof inference called+++",
+                "question": "The fallacy of affirming the consequent neglects the rule of inference called +++",
 
                 "options": " ",
 
@@ -2536,23 +2536,23 @@
         },
 
         {
-                "question": "The fallacy that occurs when an event is attributed to a cause, which is most\nprobablywrong is thefallacyof +++",
+                "question": "The fallacy that occurs when an event is attributed to a cause, which is most\nprobably wrong is the fallacy of +++",
 
                 "options": " ",
 
-                "answer": "Falsecause"
+                "answer": "False cause"
         },
 
         {
-                "question": "Thefallacycommittedwhenonejumps into conclusionis calledfallacyof +++",
+                "question": "The fallacy committed when one jumps into conclusion is called fallacy of +++",
 
                 "options": " ",
 
-                "answer": "Hastygeneralisation"
+                "answer": "Hasty generalisation"
         },
 
         {
-                "question": "Has your father finished spending the money he embezzled while in public\noffice?\u201d This is anexampleof afallacyof +++",
+                "question": "Has your father finished spending the money he embezzled while in public\noffice?\u201d This is an example of a fallacy of +++",
 
                 "options": " ",
 
@@ -2560,7 +2560,7 @@
         },
 
         {
-                "question": "When an argument contains a premise in which a term is used distributively and\naconclusionusedit collectively, it commits thefallacyof +++",
+                "question": "When an argument contains a premise in which a term is used distributively and\na conclusion used it collectively, it commits the fallacy of +++",
 
                 "options": " ",
 
@@ -2568,7 +2568,7 @@
         },
 
         {
-                "question": "When an argument contains a premise in which a term is used collectively and a\nconclusionis useddistributively, it commits the fallacyof +++",
+                "question": "When an argument contains a premise in which a term is used collectively and a\nconclusion is used distributively, it commits the fallacy of +++",
 
                 "options": " ",
 
@@ -2584,7 +2584,7 @@
         },
 
         {
-                "question": "All students must participate in the environmental sanitation. Any student found\nabsent will be ejected from the halls of residence. This is an example of a fallacy\nthat appeals to+++",
+                "question": "All students must participate in the environmental sanitation. Any student found\nabsent will be ejected from the halls of residence. This is an example of a fallacy\nthat appeals to +++",
 
                 "options": " ",
 
@@ -2592,7 +2592,7 @@
         },
 
         {
-                "question": "Please support the upcoming population census; it will help the development of\nour nation. Civil servants are in the best position to mobilize other citizens for it.\nWhoever does not support the campaign will lose his/her job. This is an example\nof afallacythat appeals to+++",
+                "question": "Please support the upcoming population census; it will help the development of\nour nation. Civil servants are in the best position to mobilize other citizens for it.\nWhoever does not support the campaign will lose his/her job. This is an example\nof a fallacy that appeals to +++",
 
                 "options": " ",
 
@@ -2600,7 +2600,7 @@
         },
 
         {
-                "question": "Since no one has been able to prove that any FUTA student has HIV/AIDS, FUTA\nis anHIV free university.This is anexample of afallacythat appeals to +++",
+                "question": "Since no one has been able to prove that any FUTA student has HIV/AIDS, FUTA\nis an HIV free university. This is an example of a fallacy that appeals to +++",
 
                 "options": " ",
 
@@ -2608,7 +2608,7 @@
         },
 
         {
-                "question": "If you do not buy this product for me, my sick mother, wives and eleven kids will\nhavenothingto eat tonight.This is anexampleof afallacythat appeals to+++",
+                "question": "If you do not buy this product for me, my sick mother, wives and eleven kids will\nhave nothing to eat tonight. This is an example of a fallacy that appeals to +++",
 
                 "options": " ",
 
@@ -2616,7 +2616,7 @@
         },
 
         {
-                "question": "My grandmother is always right. Since she said Sola looks like an HIV patient, I\nbetternot marryher.This is anexampleof afallacythat appeals to +++",
+                "question": "My grandmother is always right. Since she said Sola looks like an HIV patient, I\nbetter not marry her. This is an example of a fallacy that appeals to +++",
 
                 "options": " ",
 
@@ -2624,7 +2624,7 @@
         },
 
         {
-                "question": "I expect everybody to vacate these premises since the prophetess predicted that\nthe building will collapse in 24hours. This is an example of a fallacy that appeals\nto+++",
+                "question": "I expect everybody to vacate these premises since the prophetess predicted that\nthe building will collapse in 24hours. This is an example of a fallacy that appeals\nto +++",
 
                 "options": " ",
 
@@ -2632,23 +2632,23 @@
         },
 
         {
-                "question": "Your children must be strange kids. All children I know like to eat Indomine\nnoodles.This is anexample of afallacythat appeals to +++",
+                "question": "Your children must be strange kids. All children I know like to eat Indomine\nnoodles. This is an example of a fallacy that appeals to +++",
 
                 "options": " ",
 
-                "answer": "Popularprejudice"
+                "answer": "Popular prejudice"
         },
 
         {
-                "question": "Someone with a similar experience would understand our needs better than all\nelse. That is why all university students and graduates should vote for a\nuniversity degree holder.This argument is an example of a fallacythat appeals to\n+++",
+                "question": "Someone with a similar experience would understand our needs better than all\nelse. That is why all university students and graduates should vote for a\nuniversity degree holder. This argument is an example of a fallacy that appeals to\n+++",
 
                 "options": " ",
 
-                "answer": "Popularprejudice"
+                "answer": "Popular prejudice"
         },
 
         {
-                "question": "When the character of the person presenting the argument is attacked,\nargumentum adHominem is of whichtype?+++",
+                "question": "When the character of the person presenting the argument is attacked,\nargumentum ad Hominem is of which type? +++",
 
                 "options": " ",
 
@@ -2656,7 +2656,7 @@
         },
 
         {
-                "question": "When the person presenting the argument\u2019s situation is attacked, argumentum\nadHominem is of whichtype?+++",
+                "question": "When the person presenting the argument\u2019s situation is attacked, argumentum\nad Hominem is of which type? +++",
 
                 "options": " ",
 
@@ -2664,55 +2664,55 @@
         },
 
         {
-                "question": "Fredrick\u2019s statement that Obasanjo should respect President Jonathan should be\nthrownout because, he diedof Malariayesterday.This is afallacyof +++",
+                "question": "Fredrick\u2019s statement that Obasanjo should respect President Jonathan should be\nthrown out because, he died of Malaria yesterday. This is a fallacy of +++",
 
                 "options": " ",
 
-                "answer": "Attackingthe person"
+                "answer": "Attacking the person"
         },
 
         {
-                "question": "No student should obey the SUG President\u2019s directive because he has mouth\nodor.This is afallacyof +++",
+                "question": "No student should obey the SUG President\u2019s directive because he has mouth\nodor. This is a fallacy of +++",
 
                 "options": " ",
 
-                "answer": "Attackingthe person"
+                "answer": "Attacking the person"
         },
 
         {
-                "question": "Your step mother that appeared to you in the dream last night accounted for the\nloss of your job this morning.This is afallacyof +++",
+                "question": "Your step mother that appeared to you in the dream last night accounted for the\nloss of your job this morning. This is a fallacy of +++",
 
                 "options": " ",
 
-                "answer": "Falsecause"
+                "answer": "False cause"
         },
 
         {
-                "question": "When you hit your left leg against a stone, you should have gone back home\nbecause that was enough signal to indicate that you will not meet the chairman\ninhis office.This is afallacyof +++",
+                "question": "When you hit your left leg against a stone, you should have gone back home\nbecause that was enough signal to indicate that you will not meet the chairman\nin his office. This is a fallacy of +++",
 
                 "options": " ",
 
-                "answer": "Falsecause"
+                "answer": "False cause"
         },
 
         {
-                "question": "Since your penultimate year result shows your CGPA is on first class, you have a\nready job waiting for you after graduation, because universities employ their first\nclass graduates.This is afallacyof +++",
+                "question": "Since your penultimate year result shows your CGPA is on first class, you have a\nready job waiting for you after graduation, because universities employ their first\nclass graduates. This is a fallacy of +++",
 
                 "options": " ",
 
-                "answer": "Hastygeneralisation"
+                "answer": "Hasty generalisation"
         },
 
         {
-                "question": "No Governor has ever been privileged to win a second term bid in this state. Our\nnewgovernor shouldsimplyplanfor four years.This is afallacyof +++",
+                "question": "No Governor has ever been privileged to win a second term bid in this state. Our\nnew governor should simply plan for four years. This is a fallacy of +++",
 
                 "options": " ",
 
-                "answer": "Hastygeneralisation"
+                "answer": "Hasty generalisation"
         },
 
         {
-                "question": "Tope\u2019s goal is to be the best student in this class. That means every time the\nschool team scores a goal, he becomes the best student in the class. This is a\nfallacyof +++",
+                "question": "Tope\u2019s goal is to be the best student in this class. That means every time the\nschool team scores a goal, he becomes the best student in the class. This is a\nfallacy of +++",
 
                 "options": " ",
 
@@ -2720,7 +2720,7 @@
         },
 
         {
-                "question": "FUTA is a neat campus. How then do you return from her teaching and research\nfarm withdirtyclothes?This is afallacyof +++",
+                "question": "FUTA is a neat campus. How then do you return from her teaching and research\nfarm with dirty clothes? This is a fallacy of +++",
 
                 "options": " ",
 
@@ -2728,7 +2728,7 @@
         },
 
         {
-                "question": "The literary and debating unit is formed by best students from each of the\nclasses.Therefore, theunit is thebest inthe school.This is afallacyof +++",
+                "question": "The literary and debating unit is formed by best students from each of the\nclasses. Therefore, the unit is the best in the school. This is a fallacy of +++",
 
                 "options": " ",
 
@@ -2736,7 +2736,7 @@
         },
 
         {
-                "question": "Howmanyarethe laws of thought",
+                "question": "How many are the laws of thought",
 
                 "options": " ",
 
@@ -2744,7 +2744,7 @@
         },
 
         {
-                "question": "Thelaws of thought arepropoundedbyanancient philosophernamed+++",
+                "question": "The laws of thought are propounded by an ancient philosopher named +++",
 
                 "options": " ",
 
@@ -2752,7 +2752,7 @@
         },
 
         {
-                "question": "Asyllogisticargument has +++ conclusion",
+                "question": "A syllogistic argument has +++ conclusion",
 
                 "options": " ",
 
@@ -2760,7 +2760,7 @@
         },
 
         {
-                "question": "If Oluis aboythenhe attends amaleschool.This is anexampleof a+++\nstatement",
+                "question": "If Olu is a boy then he attends a male school. This is an example of a +++\nstatement",
 
                 "options": " ",
 
@@ -2768,7 +2768,7 @@
         },
 
         {
-                "question": "He willsucceedinhis examinations if andonlyif hewillreadwell.This is an\nexampleof a+++ statement",
+                "question": "He will succeed in his examinations if and only if he will read well. This is an\nexample of a +++ statement",
 
                 "options": " ",
 
@@ -2776,7 +2776,7 @@
         },
 
         {
-                "question": "Thelawof excluded+++ abhors amiddlecourse byassertingthat aproposition\nis either trueorfalse.",
+                "question": "The law of excluded +++ abhors a middle course by asserting that a proposition\nis either true or false.",
 
                 "options": " ",
 
@@ -2784,7 +2784,7 @@
         },
 
         {
-                "question": "This is anexample of thelawof +++ If Athenit is A.",
+                "question": "This is an example of the law of +++ If A then it is A.",
 
                 "options": " ",
 
@@ -2792,7 +2792,7 @@
         },
 
         {
-                "question": "Thelawof --------------declares that no propositioncanbetrueandfalseat the\nsametime.",
+                "question": "The law of --------------declares that no proposition can be true and false at the\nsame time.",
 
                 "options": " ",
 
@@ -2800,155 +2800,155 @@
         },
 
         {
-                "question": "Aset of letters p-z usedinlogicaldenotations arecalled+++",
+                "question": "A set of letters p-z used in logical denotations are called +++",
 
                 "options": " ",
 
-                "answer": "logicalvariables"
+                "answer": "logical variables"
         },
 
         {
-                "question": "Another nameforformalfallacies is +++",
+                "question": "Another name for formal fallacies is +++",
 
                 "options": " ",
 
-                "answer": "nonsequitur"
+                "answer": "non sequitur"
         },
 
         {
-                "question": "\u201cSince long ago, then, mankind has tried to understand nature for reasons other\nthan making life easier than more convenient. There has also been the challenge\nof our own human nature. We stand somehow at the juncture of inner and outer\nworlds, creature of both body and spirit, subject to laws of nature yet making our\nown way. We are both part of the order of nature and separate from it, and the\ncosmos which we glimpse is also a cosmos which we impose after our own\nmanner of understanding\u201d Theabove quotationis talking about",
+                "question": "\u201cSince long ago, then, mankind has tried to understand nature for reasons other\nthan making life easier than more convenient. There has also been the challenge\nof our own human nature. We stand somehow at the juncture of inner and outer\nworlds, creature of both body and spirit, subject to laws of nature yet making our\nown way. We are both part of the order of nature and separate from it, and the\ncosmos which we glimpse is also a cosmos which we impose after our own\nmanner of understanding\u201d The above quotation is talking about",
 
                 "options": [
-                        "a. Thewriterhimself",
+                        "a. The writer himself",
 
-                        "b. Thecosmos",
+                        "b. The cosmos",
 
                         "c. About ourselves",
 
-                        "d. Allof theabove "
+                        "d. All of the above "
                 ],
 
-                "answer": "d. Allof theabove +++"
+                "answer": "d. All of the above +++"
         },
 
         {
-                "question": "\u201cSince long ago, then, mankind has tried to understand nature for reasons other\nthan making life easier than more convenient. There has also been the challenge\nof our own human nature. We stand somehow at the juncture of inner and outer\nworlds, creature of both body and spirit, subject to laws of nature yet making our\nown way. We are both part of the order of nature and separate from it, and the\ncosmos which we glimpse is also a cosmos which we impose after our own\nmanner of understanding\u201d From theabovequotation, youcanaffirm that:",
+                "question": "\u201cSince long ago, then, mankind has tried to understand nature for reasons other\nthan making life easier than more convenient. There has also been the challenge\nof our own human nature. We stand somehow at the juncture of inner and outer\nworlds, creature of both body and spirit, subject to laws of nature yet making our\nown way. We are both part of the order of nature and separate from it, and the\ncosmos which we glimpse is also a cosmos which we impose after our own\nmanner of understanding\u201d From the above quotation, you can affirm that:",
 
                 "options": [
-                        "a. Manhas theonlydutyto makelife easier",
+                        "a. Man has the only duty to make life easier",
 
-                        "b. Manis themakerof his ownbodyandspirit",
+                        "b. Man is the maker of his own body and spirit",
 
-                        "c. Manis challengedto ask questions about himself ",
+                        "c. Man is challenged to ask questions about himself ",
 
-                        "d. Manhas nothing to do withtheuniverse"
+                        "d. Man has nothing to do with the universe"
                 ],
 
-                "answer": "c. Manis challengedto ask questions about himself +++"
+                "answer": "c. Man is challenged to ask questions about himself +++"
         },
 
         {
-                "question": "What makes aleader asuccessfulleader among allotherfactors is",
+                "question": "What makes a leader a successful leader among all other factors is",
 
                 "options": [
-                        "a. Geographicalenvironment",
+                        "a. Geographical environment",
 
-                        "b. Technologicalknowledge",
+                        "b. Technological knowledge",
 
-                        "c. Requiredmorality",
+                        "c. Required morality ",
 
-                        "d. Culturalunderstanding"
+                        "d. Cultural understanding"
                 ],
 
-                "answer": "c. Requiredmorality+++"
+                "answer": "c. Required morality +++"
         },
 
         {
-                "question": "Ourtechnologicalneeds andconduciveenvironment require",
+                "question": "Our technological needs and conducive environment require",
 
                 "options": [
-                        "a. Geographicalknowledge",
+                        "a. Geographical knowledge",
 
-                        "b. Culturaltechnology",
+                        "b. Cultural technology",
 
-                        "c. Professionalethics andright attitude",
+                        "c. Professional ethics and right attitude ",
 
-                        "d. Criticalreflection"
+                        "d. Critical reflection"
                 ],
 
-                "answer": "c. Professionalethics andright attitude+++"
+                "answer": "c. Professional ethics and right attitude +++"
         },
 
         {
-                "question": "Ourculturaltechnologydemands",
+                "question": "Our cultural technology demands",
 
                 "options": [
-                        "a. Goodknowledgeof technology",
+                        "a. Good knowledge of technology",
 
-                        "b. Goodknowledgeof culture",
+                        "b. Good knowledge of culture",
 
-                        "c. Understandingof technologyandculture",
+                        "c. Understanding of technology and culture",
 
-                        "d. Right thinkingattitude "
+                        "d. Right thinking attitude "
                 ],
 
-                "answer": "d. Right thinkingattitude +++"
+                "answer": "d. Right thinking attitude +++"
         },
 
         null,
 
         {
-                "question": "Goodethicalorientationleads to",
+                "question": "Good ethical orientation leads to",
 
                 "options": [
-                        "a. Goodknowledgeof technology",
+                        "a. Good knowledge of technology",
 
-                        "b. Goodknowledgeof culture",
+                        "b. Good knowledge of culture",
 
-                        "c. Goodknowledgeof science",
+                        "c. Good knowledge of science",
 
-                        "d. Productiveideas "
+                        "d. Productive ideas "
                 ],
 
-                "answer": "d. Productiveideas +++"
+                "answer": "d. Productive ideas +++"
         },
 
         {
-                "question": "Technologicaltransformationanddevelopment of anationis madepossible by",
+                "question": "Technological transformation and development of a nation is made possible by",
 
                 "options": [
-                        "a. Discoveries andinventions ",
+                        "a. Discoveries and inventions ",
 
-                        "b. Historicalknowledgeof technology",
+                        "b. Historical knowledge of technology",
 
-                        "c. Conducivegeographicalenvironment",
+                        "c. Conducive geographical environment",
 
-                        "d. Socialideas of anation"
+                        "d. Social ideas of a nation"
                 ],
 
-                "answer": "a. Discoveries andinventions +++"
+                "answer": "a. Discoveries and inventions +++"
         },
 
         {
-                "question": "Technologywithout goodmoralandright attitude is",
+                "question": "Technology without good moral and right attitude is",
 
                 "options": [
-                        "a. Okaywithgoodleadership",
+                        "a. Okay with good leadership",
 
-                        "b. Okaywithhighknowledgeof technology",
+                        "b. Okay with high knowledge of technology",
 
-                        "c. Okaywithgoodscientificknowledge",
+                        "c. Okay with good scientific knowledge",
 
-                        "d. Not okayforour nation"
+                        "d. Not okay for our nation "
                 ],
 
-                "answer": "d. Not okayforour nation+++"
+                "answer": "d. Not okay for our nation +++"
         },
 
         null,
 
         {
-                "question": "\u201cEconomics and technology have no meaning except from man for whom they\nshould serve. And man is only truly man as far as he is master of his own acts\nand judge of their worth, he is judge of his own advancement\u201d The author of this\nquotationis",
+                "question": "\u201cEconomics and technology have no meaning except from man for whom they\nshould serve. And man is only truly man as far as he is master of his own acts\nand judge of their worth, he is judge of his own advancement\u201d The author of this\nquotation is",
 
                 "options": " ",
 
@@ -2959,54 +2959,54 @@
                 "question": "\u201cEconomics and technology have no meaning except from man for whom they\nshould serve. And man is only truly man as far as he is master of his own acts\nand judge of their worth, he is judge of his own advancement\u201d This quotation\nrefers to:",
 
                 "options": [
-                        "a. Amanof goodtechnology",
+                        "a. A man of good technology",
 
-                        "b. Aknowledgeableman",
+                        "b. A knowledgeable man",
 
-                        "c. Amanof goodmorality",
+                        "c. A man of good morality ",
 
-                        "d. Amanof self"
+                        "d. A man of self"
                 ],
 
-                "answer": "c. Amanof goodmorality+++"
+                "answer": "c. A man of good morality +++"
         },
 
         null,
 
         {
-                "question": "Oneof theseis themost correct",
+                "question": "One of these is the most correct",
 
                 "options": [
-                        "a. Technologyandtraditionalphilosophyareforeignto oneanother",
+                        "a. Technology and traditional philosophy are foreign to one another",
 
-                        "b. Technologyandtraditionalphilosophyareoneandsamething",
+                        "b. Technology and traditional philosophy are one and same thing",
 
-                        "c. Technologyandtraditionalphilosophyarefriendly",
+                        "c. Technology and traditional philosophy are friendly ",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "c. Technologyandtraditionalphilosophyarefriendly+++"
+                "answer": "c. Technology and traditional philosophy are friendly +++"
         },
 
         {
-                "question": "Oneof theseis themost correct",
+                "question": "One of these is the most correct",
 
                 "options": [
-                        "a. Philosophyandtechnologyoriginatedfrom modernknowledge",
+                        "a. Philosophy and technology originated from modern knowledge",
 
-                        "b. Philosophyandtechnologyoriginatedwiththeearlymenandwomen",
+                        "b. Philosophy and technology originated with the early men and women ",
 
-                        "c. Philosophyandtechnologyoriginatedfrom nowhere",
+                        "c. Philosophy and technology originated from nowhere",
 
                         "d. Philosophy and technology originated with modern technology and"
                 ],
 
-                "answer": "b. Philosophyandtechnologyoriginatedwiththeearlymenandwomen+++"
+                "answer": "b. Philosophy and technology originated with the early men and women +++"
         },
 
         {
-                "question": "Oneof theseis themost correct",
+                "question": "One of these is the most correct",
 
                 "options": " ",
 
@@ -3014,7 +3014,7 @@
         },
 
         {
-                "question": "Oneof theseis themost correct",
+                "question": "One of these is the most correct",
 
                 "options": " ",
 
@@ -3022,7 +3022,7 @@
         },
 
         {
-                "question": "Part of our cultural endowment includes the techniques and skills man uses to\ntacklethechallenges of life, hence",
+                "question": "Part of our cultural endowment includes the techniques and skills man uses to\ntackle the challenges of life, hence",
 
                 "options": " ",
 
@@ -3030,143 +3030,143 @@
         },
 
         {
-                "question": "Philosophicaldesire andlovetoknowgoes beyondmere knowing, it involves",
+                "question": "Philosophical desire and love to know goes beyond mere knowing, it involves",
 
                 "options": " ",
 
-                "answer": "Abilityto searchfor facts andobjectiveinacritical manner overandabove"
+                "answer": "Ability to search for facts and objective in a critical manner over and above"
         },
 
         {
-                "question": "Philosophybelongs to the rationalityof",
+                "question": "Philosophy belongs to the rationality of",
 
                 "options": [
-                        "a. Allanimals",
+                        "a. All animals",
 
-                        "b. Everycreatedthing",
+                        "b. Every created thing",
 
-                        "c. Humanbeings ",
+                        "c. Human beings ",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "c. Humanbeings +++"
+                "answer": "c. Human beings +++"
         },
 
         {
-                "question": "Oneof theseis themost correct",
+                "question": "One of these is the most correct",
 
                 "options": [
-                        "a. Somescholars callbiologicalthinking as science of sciences",
+                        "a. Some scholars call biological thinking as science of sciences",
 
-                        "b. Somescholars callmathematicalreflectionscience of sciences",
+                        "b. Some scholars call mathematical reflection science of sciences",
 
-                        "c. Somescholars callphysicalknowledgescienceof sciences",
+                        "c. Some scholars call physical knowledge science of sciences",
 
-                        "d. Somescholars callphilosophicalsciencescienceof sciences "
+                        "d. Some scholars call philosophical science science of sciences "
                 ],
 
-                "answer": "d. Somescholars callphilosophicalsciencescienceof sciences +++"
+                "answer": "d. Some scholars call philosophical science science of sciences +++"
         },
 
         {
-                "question": "Scientific discoveries are made through and by philosophical knowledge as long\nas scientificinventions are",
+                "question": "Scientific discoveries are made through and by philosophical knowledge as long\nas scientific inventions are",
 
                 "options": [
-                        "a. Theoutcomeof historicalknowledge",
+                        "a. The outcome of historical knowledge",
 
-                        "b. Theoutcomeof biologicalknowledge",
+                        "b. The outcome of biological knowledge",
 
-                        "c. Theoutcomeof criticalreflectiononhumanexperience ",
+                        "c. The outcome of critical reflection on human experience ",
 
-                        "d. Theoutcomeof scientificexperience"
+                        "d. The outcome of scientific experience"
                 ],
 
-                "answer": "c. Theoutcomeof criticalreflectiononhumanexperience +++"
+                "answer": "c. The outcome of critical reflection on human experience +++"
         },
 
         {
                 "question": "What is philosophy?",
 
                 "options": [
-                        "a. Loveof wisdom",
+                        "a. Love of wisdom",
 
-                        "b. Criticalthinking",
+                        "b. Critical thinking",
 
                         "c. Rationality",
 
-                        "d. Allof theabove "
+                        "d. All of the above "
                 ],
 
-                "answer": "d. Allof theabove +++"
+                "answer": "d. All of the above +++"
         },
 
         {
-                "question": "Philosophicalknowledgeis meant for",
+                "question": "Philosophical knowledge is meant for",
 
                 "options": [
-                        "a. Academicstudents only",
+                        "a. Academic students only",
 
-                        "b. Alleducatedpeople",
+                        "b. All educated people",
 
-                        "c. Bothstudents andeducatedpeople",
+                        "c. Both students and educated people",
 
-                        "d. Everythinking people"
+                        "d. Every thinking people "
                 ],
 
-                "answer": "d. Everythinking people+++"
+                "answer": "d. Every thinking people +++"
         },
 
         {
-                "question": "Oneof theseis themost correct",
+                "question": "One of these is the most correct",
 
                 "options": [
-                        "a. Someprofessionals needphilosophicalknowledge",
+                        "a. Some professionals need philosophical knowledge",
 
-                        "b. Someprofessionalcando without philosophicalproblems",
+                        "b. Some professional can do without philosophical problems",
 
-                        "c. Allprofessionalcannot do without philosophicalmind",
+                        "c. All professional cannot do without philosophical mind ",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "c. Allprofessionalcannot do without philosophicalmind+++"
+                "answer": "c. All professional cannot do without philosophical mind +++"
         },
 
         {
-                "question": "Themajor ways, manners andtechnologicalknowledgeis",
+                "question": "The major ways, manners and technological knowledge is",
 
                 "options": [
-                        "a. Bymathematicalknowledge",
+                        "a. By mathematical knowledge",
 
-                        "b. Bybiologicalknowledge",
+                        "b. By biological knowledge",
 
-                        "c. Byphysicalknowledge",
+                        "c. By physical knowledge",
 
-                        "d. Byphilosophicalknowledge "
+                        "d. By philosophical knowledge "
                 ],
 
-                "answer": "d. Byphilosophicalknowledge +++"
+                "answer": "d. By philosophical knowledge +++"
         },
 
         {
-                "question": "Oneof theseis themost correct",
+                "question": "One of these is the most correct",
 
                 "options": [
-                        "a. Onlystudents aremeant to seek afterknowledge",
+                        "a. Only students are meant to seek after knowledge",
 
-                        "b. Everythinking andreasonable beingseek afterknowledge",
+                        "b. Every thinking and reasonable being seek after knowledge ",
 
-                        "c. Onlythosewho arefacing challenges of lifeseek afterknowledge",
+                        "c. Only those who are facing challenges of life seek after knowledge",
 
-                        "d. Onlythosewho want to know seek after knowledge"
+                        "d. Only those who want to know seek after knowledge"
                 ],
 
-                "answer": "b. Everythinking andreasonable beingseek afterknowledge+++"
+                "answer": "b. Every thinking and reasonable being seek after knowledge +++"
         },
 
         {
-                "question": "Oneof theseis true",
+                "question": "One of these is true",
 
                 "options": " ",
 
@@ -3174,39 +3174,39 @@
         },
 
         {
-                "question": "Thebest definitionof philosophyis givenby",
+                "question": "The best definition of philosophy is given by",
 
                 "options": [
-                        "a. Ananalyticmind",
+                        "a. An analytic mind",
 
-                        "b. Adefiner of philosophy",
+                        "b. A definer of philosophy",
 
-                        "c. Areflective mind",
+                        "c. A reflective mind",
 
-                        "d. Allof theabove "
+                        "d. All of the above "
                 ],
 
-                "answer": "d. Allof theabove +++"
+                "answer": "d. All of the above +++"
         },
 
         {
-                "question": "Whichof theseis most appropriate",
+                "question": "Which of these is most appropriate",
 
                 "options": [
-                        "a. Philosophyhas its ownlimitedscope",
+                        "a. Philosophy has its own limited scope",
 
-                        "b. Philosophyhas unlimitedscope",
+                        "b. Philosophy has unlimited scope ",
 
-                        "c. Philosophyhas adogmaticdefinition",
+                        "c. Philosophy has a dogmatic definition",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "b. Philosophyhas unlimitedscope+++"
+                "answer": "b. Philosophy has unlimited scope +++"
         },
 
         {
-                "question": "Whichof theseis correct",
+                "question": "Which of these is correct",
 
                 "options": " ",
 
@@ -3214,172 +3214,172 @@
         },
 
         {
-                "question": "Themeans of nationaldevelopingtechnologyis",
+                "question": "The means of national developing technology is",
 
                 "options": [
-                        "a. Bytechnologicalmethod",
+                        "a. By technological method",
 
-                        "b. Byscientificmethod",
+                        "b. By scientific method",
 
-                        "c. Bycriticalreflection",
+                        "c. By critical reflection ",
 
-                        "d. Byscienceandtechnology"
+                        "d. By science and technology"
                 ],
 
-                "answer": "c. Bycriticalreflection+++"
+                "answer": "c. By critical reflection +++"
         },
 
         null,
 
         {
-                "question": "Technologybydefinitionmeans",
+                "question": "Technology by definition means",
 
                 "options": [
-                        "a. Integrationof knowledge",
+                        "a. Integration of knowledge",
 
-                        "b. Criticalreflection",
+                        "b. Critical reflection",
 
-                        "c. Rationalinquiry",
+                        "c. Rational inquiry",
 
-                        "d. Skillandtechnique "
+                        "d. Skill and technique "
                 ],
 
-                "answer": "d. Skillandtechnique +++"
+                "answer": "d. Skill and technique +++"
         },
 
         {
-                "question": "Wecanas welldefinetechnologyas",
+                "question": "We can as well define technology as",
 
                 "options": [
                         "a. Self reliance",
 
                         "b. Ultimate means",
 
-                        "c. Systematicknowledge",
+                        "c. Systematic knowledge",
 
-                        "d. Noneof the above"
+                        "d. None of the above "
                 ],
 
-                "answer": "d. Noneof the above+++"
+                "answer": "d. None of the above +++"
         },
 
         {
-                "question": "Thephilosophyof technologyis derivedfrom",
+                "question": "The philosophy of technology is derived from",
 
                 "options": [
-                        "a. Scientificknowledge",
+                        "a. Scientific knowledge",
 
-                        "b. Integrationof philosophyandtechnology",
+                        "b. Integration of philosophy and technology ",
 
-                        "c. Integrationof allscientificknowledge",
+                        "c. Integration of all scientific knowledge",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "b. Integrationof philosophyandtechnology+++"
+                "answer": "b. Integration of philosophy and technology +++"
         },
 
         {
-                "question": "Thebest wayanationcandeveloptechnologicallyis by",
+                "question": "The best way a nation can develop technologically is by",
 
                 "options": [
-                        "a. Borrowedtechnology",
+                        "a. Borrowed technology",
 
-                        "b. Transferredtechnology",
+                        "b. Transferred technology",
 
-                        "c. Criticalreflection",
+                        "c. Critical reflection ",
 
-                        "d. Allof theabove"
+                        "d. All of the above"
                 ],
 
-                "answer": "c. Criticalreflection+++"
+                "answer": "c. Critical reflection +++"
         },
 
         {
-                "question": "Themeans andmethods anationcanspeedilymakeprogress is by",
+                "question": "The means and methods a nation can speedily make progress is by",
 
                 "options": [
-                        "a. Appropriatetechnology",
+                        "a. Appropriate technology ",
 
-                        "b. Imitationtechnology",
+                        "b. Imitation technology",
 
-                        "c. Transferredtechnology",
+                        "c. Transferred technology",
 
-                        "d. Noneof the above"
+                        "d. None of the above"
                 ],
 
-                "answer": "a. Appropriatetechnology+++"
+                "answer": "a. Appropriate technology +++"
         },
 
         {
-                "question": "What makes anationalleaderagoodleader?",
+                "question": "What makes a national leader a good leader?",
 
                 "options": [
                         "a. Self importance",
 
-                        "b. Criticalthinking",
+                        "b. Critical thinking ",
 
-                        "c. Commonpopularity",
+                        "c. Common popularity",
 
-                        "d. Higheducation"
+                        "d. High education"
                 ],
 
-                "answer": "b. Criticalthinking+++"
+                "answer": "b. Critical thinking +++"
         },
 
         {
-                "question": "Agoodleader needs what tomovethenationforwardwith",
+                "question": "A good leader needs what to move the nation forward with",
 
                 "options": [
-                        "a. Politicalpolicies",
+                        "a. Political policies",
 
                         "b. Religious policies",
 
-                        "c. Criticalthinking",
+                        "c. Critical thinking ",
 
-                        "d. Geographicalknowledgeof his"
+                        "d. Geographical knowledge of his"
                 ],
 
-                "answer": "c. Criticalthinking+++"
+                "answer": "c. Critical thinking +++"
         },
 
         {
-                "question": "What is themost appropriate factor that makes aleader aheadwithout ahead?",
+                "question": "What is the most appropriate factor that makes a leader a head without a head?",
 
                 "options": [
-                        "a. Lack of geographicalknowledge",
+                        "a. Lack of geographical knowledge",
 
-                        "b. Lack of historicalunderstanding",
+                        "b. Lack of historical understanding",
 
-                        "c. Technologicallimitation",
+                        "c. Technological limitation",
 
-                        "d. Lack of criticalthinking"
+                        "d. Lack of critical thinking "
                 ],
 
-                "answer": "d. Lack of criticalthinking+++"
+                "answer": "d. Lack of critical thinking +++"
         },
 
         {
-                "question": "Allbut oneof thesearephilosophicalproblems",
+                "question": "All but one of these are philosophical problems",
 
                 "options": [
-                        "a. Theproblem of the natureandstructure of reality",
+                        "a. The problem of the nature and structure of reality",
 
-                        "b. Theproblem of induction",
+                        "b. The problem of induction",
 
-                        "c. Theproblem of freewill",
+                        "c. The problem of freewill",
 
-                        "d. Theproblem of immoraldevil"
+                        "d. The problem of immoral devil "
                 ],
 
-                "answer": "d. Theproblem of immoraldevil+++"
+                "answer": "d. The problem of immoral devil +++"
         },
 
         {
-                "question": "Materialism is concernedwiththe:",
+                "question": "Materialism is concerned with the:",
 
                 "options": [
-                        "a. Problem of reality",
+                        "a. Problem of reality ",
 
                         "b. Problem of morality",
 
@@ -3388,14 +3388,14 @@
                         "d. Problem of metaethics"
                 ],
 
-                "answer": "a. Problem of reality+++"
+                "answer": "a. Problem of reality +++"
         },
 
         {
-                "question": "Theproblem of the existence of spirits is a",
+                "question": "The problem of the existence of spirits is a",
 
                 "options": [
-                        "a. Problem of reality",
+                        "a. Problem of reality ",
 
                         "b. Problem of morality",
 
@@ -3404,51 +3404,51 @@
                         "d. Problem of metaethics"
                 ],
 
-                "answer": "a. Problem of reality+++"
+                "answer": "a. Problem of reality +++"
         },
 
         {
-                "question": "JTBis aviewintheareaof theproblem of:",
+                "question": "JTB is a view in the area of the problem of:",
 
                 "options": [
                         "a. Reality",
 
                         "b. Morality",
 
-                        "c. Knowledge",
+                        "c. Knowledge ",
 
                         "d. Metaethics"
                 ],
 
-                "answer": "c. Knowledge+++"
+                "answer": "c. Knowledge +++"
         },
 
         {
-                "question": "Philosophicalproblems cannot betackledthrough",
+                "question": "Philosophical problems cannot be tackled through",
 
                 "options": " ",
 
-                "answer": "Accumulationof facts +++"
+                "answer": "Accumulation of facts +++"
         },
 
         {
-                "question": "Philosophicalproblems arenot",
+                "question": "Philosophical problems are not",
 
                 "options": [
-                        "a. Generalinnature",
+                        "a. General in nature",
 
-                        "b. Fundamental innature",
+                        "b. Fundamental in nature",
 
-                        "c. Abstract innature",
+                        "c. Abstract in nature",
 
-                        "d. Conciliatoryinnature "
+                        "d. Conciliatory in nature "
                 ],
 
-                "answer": "d. Conciliatoryinnature +++"
+                "answer": "d. Conciliatory in nature +++"
         },
 
         {
-                "question": "Philosophicalproblems areconcernedwithsearching foranswers to ultimate\nquestions of",
+                "question": "Philosophical problems are concerned with searching for answers to ultimate\nquestions of",
 
                 "options": [
                         "a. Reality",
@@ -3464,14 +3464,14 @@
         },
 
         {
-                "question": "Allbut oneof theseareapproaches to philosophicalproblems:",
+                "question": "All but one of these are approaches to philosophical problems:",
 
                 "options": [
-                        "a. Criticalthinking",
+                        "a. Critical thinking",
 
-                        "b. Conceptualanalysis",
+                        "b. Conceptual analysis",
 
-                        "c. Reconstructionof ideas",
+                        "c. Reconstruction of ideas",
 
                         "d. Values reassessment "
                 ],

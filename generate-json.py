@@ -42,7 +42,7 @@ QUESTION_LIST = []#a list of {"question":abc,"answer":def}
 with pdfplumber.open("gns106+++.pdf") as gns_pdf:
     pages = gns_pdf.pages[30:]#list of pdf pages starting from 30 coz german question starts here.
     for page in pages:
-        page_text = page.extract_text()
+        page_text = page.extract_text(x_tolerance = 1)
         question_match_list = [get_match_string(page_text,match) for match in PATTERN.finditer(page_text)]
         q_and_a_dict = [get_q_and_a_dict(match) for match in question_match_list]
         QUESTION_LIST.extend(q_and_a_dict)
