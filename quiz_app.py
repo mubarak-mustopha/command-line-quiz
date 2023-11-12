@@ -6,7 +6,7 @@ def remove_space(string):
     return re.sub(" ","",string)
 
 def get_questions(num_question = 40):
-    QUESTIONS = json.load(open("gns-pq.json"))
+    QUESTIONS = [question for question in json.load(open("gns-pq.json")) if question != None]
     random.shuffle(QUESTIONS)
     return QUESTIONS[:num_question]
 
@@ -53,7 +53,5 @@ class Questionniare:
         print(f"You got {self._score} questions right out of {len(self._questions)}")
      
         
-# gns_questionniare = Questionniare()
-# gns_questionniare.start()
-
-print(get_questions(10))
+gns_questionniare = Questionniare(get_questions(10))
+gns_questionniare.start()
