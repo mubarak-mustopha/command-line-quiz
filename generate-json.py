@@ -36,7 +36,11 @@ def get_q_and_a_dict(match_string):
     return {"question":question,"options": options,"answer": answer[0]} 
 
 
-PATTERN = re.compile("(\d+[.].*?)\n([a-d][.][a-zA-Z+!?. ]+\n?){1,4}",re.DOTALL)
+PATTERN = re.compile(r"""
+                     (\d+[.].*?)  
+                     \n
+                     ([a-d][.][a-zA-Z+!?. ]+\n?){1,4}
+                     """,re.DOTALL|re.VERBOSE)
 QUESTION_LIST = []#a list of {"question":abc,"answer":def}
 
 with pdfplumber.open("gns106+++.pdf") as gns_pdf:
@@ -48,7 +52,7 @@ with pdfplumber.open("gns106+++.pdf") as gns_pdf:
         QUESTION_LIST.extend(q_and_a_dict)
 
 print(f"There're {len(QUESTION_LIST)} questions available.")
-print(QUESTION_LIST[:10])        
+print(QUESTION_LIST[:10])     
 
 with open("gns-pq.json", "w") as gns_json:
     json.dump(QUESTION_LIST,gns_json, indent=8, separators=(',\n',': '))
