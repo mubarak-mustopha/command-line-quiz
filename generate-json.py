@@ -20,19 +20,24 @@ def get_q_and_a_dict(match_string):
     Match_string --> multiple choice/german question with options[1/4] 
     returns {question, option, answer}
     """
-    question, options = split_text("\n(?=a[.])", match_string)# split on the newline followed by a. which is the first option
-    question = re.sub("^\d+[. ]{1,2}","",question)#strip out question number
-    options = options.strip("\n").split("\n")#gotta strip newline before splitting on it, else we get empty string in list
+    # split on the newline followed by a. which is the first option
+    question, options = split_text("\n(?=a[.])", match_string)
+    #strip out question number
+    question = re.sub("^\d+[. ]{1,2}","",question)
+    #gotta strip newline before splitting on it, else we get empty string in list
+    options = options.strip("\n").split("\n")
     if len(options) == 1:
         answer = options[0]
-        return {"question":question,"options": " ","answer": re.sub("^a[.] ","", answer)}#regex return "Muby" from "a. Muby"
+        #regex return "Muby" from "a. Muby"
+        return {"question":question,"options": " ","answer": re.sub("^a[.] ","", answer)}
     if len(options) != 4:
         return None
     
     answer = [opt for opt in options if opt.endswith("+++")]
     if not answer or len(answer) != 1:
         return None
-    options = [opt.strip("+++") for opt in options]#obscure answer
+    #obscure answer
+    options = [opt.strip("+++") for opt in options]
     return {"question":question,"options": options,"answer": answer[0]} 
 
 
@@ -41,10 +46,12 @@ PATTERN = re.compile(r"""
                      \n
                      ([a-d][.][a-zA-Z+!?. ]+\n?){1,4}
                      """,re.DOTALL|re.VERBOSE)
-QUESTION_LIST = []#a list of {"question":abc,"answer":def}
+#a list of {"question":abc,"optoin":[]|" ","answer":def}
+QUESTION_LIST = []
 
 with pdfplumber.open("gns106+++.pdf") as gns_pdf:
-    pages = gns_pdf.pages[30:]#list of pdf pages starting from 30 coz german question starts here.
+    #list of pdf pages starting from 30 coz non-tabular questions start here.
+    pages = gns_pdf.pages[30:]
     for page in pages:
         page_text = page.extract_text(x_tolerance = 1)
         question_match_list = [get_match_string(page_text,match) for match in PATTERN.finditer(page_text)]
