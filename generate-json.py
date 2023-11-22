@@ -2,13 +2,6 @@ import json
 import re
 import pdfplumber
 
-def get_match_string(fullstring,match):
-    """
-    A function that takes a string and a regex match object,
-    then return the matched substring from the string
-    """
-    return fullstring[match.start(): match.end()]
-
 def split_text(pattern, text):
     """
     Wrapper function for re.split
@@ -66,9 +59,11 @@ QUESTION_LIST = []
 with pdfplumber.open("gns106+++.pdf") as gns_pdf:
     #list of pdf pages starting from 30 coz non-tabular questions start here.
     pages = gns_pdf.pages[30:]
+
     for page in pages:
         page_text = page.extract_text(x_tolerance = 1)
-        question_match_list = [get_match_string(page_text,match) for match in PATTERN.finditer(page_text)]
+        question_match_list = [match.group() 
+                                    for match in PATTERN.finditer(page_text)]
         q_and_a_dict = [get_q_and_a_dict(match) for match in question_match_list]
         QUESTION_LIST.extend(q_and_a_dict)
 
