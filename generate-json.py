@@ -22,23 +22,36 @@ def get_q_and_a_dict(match_string):
     """
     # split on the newline followed by a. which is the first option
     question, options = split_text("\n(?=a[.])", match_string)
+
     #strip out question number
     question = re.sub("^\d+[. ]{1,2}","",question)
+
     #gotta strip newline before splitting on it, else we get empty string in list
     options = options.strip("\n").split("\n")
     if len(options) == 1:
         answer = options[0]
+
         #regex return "Muby" from "a. Muby"
-        return {"question":question,"options": " ","answer": re.sub("^a[.] ","", answer)}
+        return {
+            "question":question,
+            "options": " ",
+            "answer": re.sub("^a[.] ","", answer)}
+    
     if len(options) != 4:
         return None
     
     answer = [opt for opt in options if opt.endswith("+++")]
     if not answer or len(answer) != 1:
         return None
+
     #obscure answer
     options = [opt.strip("+++") for opt in options]
-    return {"question":question,"options": options,"answer": answer[0]} 
+
+    return {
+        "question":question,
+        "options": options,
+        "answer": answer[0]
+    } 
 
 
 PATTERN = re.compile(r"""
@@ -46,6 +59,7 @@ PATTERN = re.compile(r"""
                      \n
                      ([a-d][.][a-zA-Z+!?. ]+\n?){1,4}
                      """,re.DOTALL|re.VERBOSE)
+
 #a list of {"question":abc,"optoin":[]|" ","answer":def}
 QUESTION_LIST = []
 
