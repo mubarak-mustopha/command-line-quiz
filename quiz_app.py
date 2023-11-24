@@ -1,3 +1,4 @@
+import os
 import re
 import json
 import random
@@ -9,6 +10,10 @@ def get_questions(num_question = 40):
     QUESTIONS = [question for question in json.load(open("gns-pq.json")) if question != None]
     random.shuffle(QUESTIONS)
     return QUESTIONS[:num_question]
+
+def clear_screen():
+    clear = "cls" if os.name == 'nt' else "clear"
+    return os.system(clear)
 
 class Questionniare:
     def __init__(self, questions) -> None:
@@ -31,22 +36,25 @@ class Questionniare:
         return remove_space(question['answer'].lower()) == remove_space(option.lower())#Analytic method --> analyticmethod        
 
     def start(self):
+        clear_screen()
         print("Result to each question shows immediately after you answer it.")
         for q_num,question in enumerate(self._questions):
             is_multiple_choice = self._is_multiple_choice(question)
-            print(f"Question number {q_num}")
+            print(f"\nQuestion number {q_num}")
             print(question["question"])
             if is_multiple_choice:
                 options = '\n'.join(question['options'])
                 print(f"\n{options}")
             answer = input("Type in your answer: ")
+            print()
             if self._is_correct(question,answer, is_multiple_choice):
                 print("You got that right")
                 self._increment_score()
+                clear_screen()
             else:
                 print(f"You missed.\nCorrect answer is {question['answer']}")    
                 self._missed_questions.append(question)
-            print("*"*50)#indicate new question    
+
         self._print_score()        
 
     def _print_score(self):
