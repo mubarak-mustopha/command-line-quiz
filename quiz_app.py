@@ -59,7 +59,31 @@ class Questionniare:
 
     def _print_score(self):
         print(f"You got {self._score} questions right out of {len(self._questions)}")
+
+    def get_missed_questions(self):
+        return self._missed_questions    
      
-        
-gns_questionniare = Questionniare(get_questions(10))
-gns_questionniare.start()
+class Quiz_app:
+    def __init__(self):
+        self.questions = []
+        self.missed_questions = []
+
+    def start_quiz(self):
+        num_questions = int(input("How many questions would you like to practice with? "))
+
+        self.questions = get_questions(num_questions)
+        questionniare = Questionniare(self.questions)
+        questionniare.start()
+
+        self.missed_questions = questionniare.get_missed_questions()
+        practice_missed_questions = input("Type 'yes' you want to practice yr missed questions? ")
+
+        #practice-missed questions
+        if practice_missed_questions == "yes" :
+            questionniare = Questionniare(self.missed_questions)
+            questionniare.start()
+
+# gns_questionniare = Questionniare(get_questions(10))
+# gns_questionniare.start()
+gns_quiz_app = Quiz_app()
+gns_quiz_app.start_quiz()
